@@ -2,7 +2,7 @@
 
 To perform relation extraction, our deep learning system, BiOnt, employs four types of biomedical ontologies, namely, the Gene Ontology, the Human Phenotype Ontology, the Human Disease Ontology, and the Chemical Entities of Biological Interest, regarding gene-products, phenotypes, diseases, and chemical compounds, respectively. 
 
-Our academic paper which describes BiONT in detail was accepted for publication at the 42nd European Conference on Information Retrieval, and for now can be found [here](https://arxiv.org/abs/2001.07139).
+Our academic paper which describes BiOnt in detail was accepted for publication at the 42nd European Conference on Information Retrieval, and for now can be found [here](https://arxiv.org/abs/2001.07139).
 
 ## Downloading Pre-Trained Weights
 
