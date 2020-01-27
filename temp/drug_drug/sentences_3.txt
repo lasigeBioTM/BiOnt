@@ -1,0 +1,500 @@
+DDI-MedLine.d95.s4	Resveratrol	(	5	-	35	micromol	/	l	)	induced	concentration	-	dependent	relaxation	of	mesenteric	arteries	preconstricted	with	noradrenaline	(	8	micromol	/	l	)	or	KCl	(	125	mmol	/	l	)	from	both	lean	and	dietary	-	obese	rats	.	.
+DDI-DrugBank.d437.s9	Methadone	,	Coadministration	of	amprenavir	and	methadone	can	decrease	plasma	levels	of	methadone	.	.
+DDI-DrugBank.d340.s27	A	dose	adjustment	is	not	needed	when	zidovudine	is	administered	with	VIRACEPT	.	.
+DDI-DrugBank.d196.s4	Nucleoside	Analogues	Didanosine	Co	-	administration	of	COPEGUS	and	didanosine	is	not	recommended	.	.
+DDI-DrugBank.d165.s5	In	vitro	data	suggest	that	itraconazole	,	when	compared	to	ketoconazole	,	has	a	less	pronounced	effect	on	the	biotransformation	system	responsible	for	the	metabolism	of	astemizole	.	.
+DDI-DrugBank.d97.s37	Indinavir	and	didanosine	formulations	containing	buffer	should	be	administered	at	least	one	hour	apart	on	an	empty	stomach	.	.
+DDI-DrugBank.d236.s20	Meperidine	,	Amphetamines	potentiate	the	analgesic	effect	of	meperidine	.	.
+DDI-DrugBank.d89.s3	Based	on	adult	data	,	lower	doses	of	caffeine	may	be	needed	following	coadministration	of	drugs	which	are	reported	to	decrease	caffeine	elimination	(	e.g.	,	cimetidine	and	ketoconazole	)	and	higher	caffeine	doses	may	be	needed	following	coadministration	of	drugs	that	increase	caffeine	elimination	(	e.g.	,	phenobarbital	and	phenytoin	)	.	.
+DDI-DrugBank.d5.s17	Therefore	,	co	-	administration	of	bupropion	with	drugs	that	are	metabolized	by	CYP2D6	isoenzyme	including	certain	antidepressants	(	e.g.	,	nortriptyline	,	imipramine	,	desipramine	,	paroxetine	,	fluoxetine	,	sertraline	)	,	antipsychotics	(	e.g.	,	haloperidol	,	risperidone	,	thioridazine	)	,	beta	-	blockers	(	e.g.	,	metoprolol	)	,	and	Type_1C_antiarrhythmics	(	e.g.	,	propafenone	,	flecainide	)	,	should	be	approached	with	caution	and	should	be	initiated	at	the	lower	end	of	the	dose	range	of	the	concomitant	medication	.	.
+DDI-DrugBank.d48.s3	Drugs	that	may	decrease	dasatinib	plasma	concentrations	CYP3A4	Inducers	,	Drugs	that	induce	CYP3A4	activity	may	decrease	dasatinib	plasma	concentrations	.	.
+DDI-DrugBank.d269.s17	As	with	other	agents_with_b	-	blocking_properties	,	if	COREG	is	to	be	administered	orally	with	calcium_channel_blockers	of	the	verapamil	or	diltiazem	type	,	it	is	recommended	that	ECG	and	blood	pressure	be	monitored	.	.
+DDI-DrugBank.d338.s4	While	no	in	vivo	drug	-	drug	interaction	studies	were	conducted	between	estazolam	and	inducers	of	CYP3A	,	compounds	that	are	potent	CYP3A	inducers	(	such	as	carbamazepine	,	phenytoin	,	rifampin	,	and	barbiturates	)	would	be	expected	to	decrease	estazolam	concentrations	.	.
+DDI-DrugBank.d99.s10	Nevertheless	,	caution	is	indicated	in	the	coadministration	of	TCAs	with	any	of	the	SSRIs	and	also	in	switching	from	one	class	to	the	other	.	.
+DDI-DrugBank.d568.s20	Warfarin	;	Administration	of	40	mg	/	day	racemic	citalopram	for	21	days	did	not	affect	the	pharmacokinetics	of	warfarin	,	a	CYP3A4	substrate	.	.
+DDI-DrugBank.d454.s0	-	Lofexidine	may	enhance	the	CNS	depressive	effects	of	alcohol	,	barbiturates	and	other	sedatives	.
+DDI-DrugBank.d169.s3	Expected	changes	in	laboratory	assessments	of	PT	and	INR	were	observed	after	warfarin	administration	,	but	these	changes	were	not	affected	by	concomitant	lenalidomide	administration	.	.
+DDI-DrugBank.d331.s9	-	Antihypertensives	,	Bumetanide	may	potentiate	the	effect	of	various	antihypertensive_drugs	,	necessitating	a	reduction	in	the	dosage	of	these	drugs	.	.
+DDI-DrugBank.d110.s3	Concurrent	administration	of	vasopressor_drugs	(	for	the	treatment	of	hypotension	related	to	obstetric	blocks	)	and	ergot	-	type_oxytocic_drugs	may	cause	severe	,	persistent	hypertension	or	cerebrovascular	accidents	.	.
+DDI-DrugBank.d217.s9	Diminished	urinary	excretion	of	norfloxacin	has	been	reported	during	the	concomitant	administration	of	probenecid	and	norfloxacin	.	.
+DDI-MedLine.d89.s0	Therapeutic	drug	monitoring	can	avoid	iatrogenic	alterations	caused	by	99mTc	-	methylene_diphosphonate	(	MDP)-gentamicin	interaction	.	_	.
+DDI-DrugBank.d246.s5	When	the	STADOL_NS	was	administered	30	minutes	after	the	sumatriptan	nasal	spray	,	the	AUC	of	butorphanol	increased	11	%	and	Cmax	decreased	18	%	.	.
+DDI-DrugBank.d250.s0	Certain	other	antibiotics	(	aminoglycosides	and	polymyxin	)	have	also	been	reported	to	interfere	with	the	nerve	transmission	at	the	neuromuscular	junction	.	.
+DDI-MedLine.d86.s9	Because	of	the	pronounced	intersubject	variability	in	the	extent	of	the	sirolimus	-	diltiazem	interaction	,	whole	blood	sirolimus	concentrations	should	be	monitored	closely	in	patients	treated	with	the	two	drugs	.	.
+DDI-DrugBank.d223.s9	The	extent	to	which	SSRI	-	TCA	interactions	may	pose	clinical	problems	will	depend	on	the	degree	of	inhibition	and	the	pharmacokinetics	of	the	SSRI	involved	.	.
+DDI-DrugBank.d531.s91	Specific	drug	interaction	studies	have	not	been	performed	with	SUSTIVA	and	NRTIs	other	than	lamivudine	and	zidovudine	.	.
+DDI-DrugBank.d480.s30	Therefore	,	co	-	administration	of	clozapine	with	other	drugs	that	are	metabolized	by	this	isozyme	,	including	antidepressants	,	phenothiazines	,	carbamazepine	,	and	Type_1C_antiarrhythmics	(	e.g.	,	propafenone	,	flecainide	and	encainide	)	,	or	that	inhibit	this	enzyme	(	e.g.	,	quinidine	)	,	should	be	approached	with	caution	.	.
+DDI-DrugBank.d212.s2	In	addition	,	levetiracetam	does	not	affect	the	in	vitro	glucuronidation	of	valproic_acid	.	.
+DDI-DrugBank.d551.s1	WelChol	_	was	found	to	have	no	significant	effect	on	the	bioavailability	of	digoxin	,	lovastatin	,	metoprolol	,	quinidine	,	valproic_acid	,	and	warfarin	.	.
+DDI-DrugBank.d324.s37	There	was	no	apparent	pharmacokinetic	interaction	between	zaleplon	and	ibuprofen	following	single	dose	administration	(	10	mg	and	600	mg	,	respectively	)	of	each	drug	.	.
+DDI-DrugBank.d307.s38	Strong	inducers	of	cytochrome	P450	enzymes	(	i.e.	carbamazepine	,	phenytoin	and	phenobarbital	)	have	been	shown	to	decrease	the	plasma	levels	of	MHD	(	29	-	40	%	)	.	.
+DDI-DrugBank.d493.s3	The	safety	and	efficacy	of	anakinra	used	in	combination	with	HUMIRA	has	not	been	studied	.	.
+DDI-DrugBank.d313.s8	If	NovoLog	is	mixed	with	NPH_human_insulin	,	NovoLog	should	be	drawn	into	the	syringe	first	.	.
+DDI-DrugBank.d158.s2	Adrenergic_blockers	Adrenergic_blockers	are	inhibited	by	amphetamines	.	.
+DDI-DrugBank.d340.s12	Because	a	similar	interaction	is	likely	,	VIRACEPT	should	also	not	be	administered	concurrently	with	astemizole	.	.
+DDI-DrugBank.d434.s12	In	10	otherwise	healthy	subjects	with	epilepsy	ingesting	phenytoin	,	the	steadystate	trough	(	Cmin	)	phenytoin	plasma	concentration	was	17	5	micrograms	/	mL.	.
+DDI-DrugBank.d336.s0	Although	clinical	studies	have	not	established	a	cause	and	effect	relationship	,	physicians	should	be	aware	that	variable	effects	an	blood	coagulation	have	been	reported	very	rarely	in	patients	receiving	oral	anticoagulants	and	chlordiazepoxide	.	.
+DDI-DrugBank.d48.s14	Drugs	that	may	have	their	plasma	concentration	altered	by	dasatinib	CYP3A4	Substrates	,	Dasatinib	is	a	time	-	dependent	inhibitor	of	CYP3A4	.	.
+DDI-MedLine.d83.s13	In	comparison	with	haloperidol	,	the	adverse	events	reported	significantly	more	frequently	with	olanzapine	in	>	or	=	3.5	%	of	patients	were	dry	mouth	,	bodyweight	gain	and	increased	appetite	and	compared	with	risperidone	,	only	bodyweight	gain	occurred	significantly	more	frequently	with	olanzapine	.	.
+DDI-MedLine.d39.s6	Exogenous	estradiol	also	appeared	to	influence	the	percentage	of	endotoxin	-	induced	deaths	in	a	dose	-	dependent	manner	.	.
+DDI-DrugBank.d265.s0	Chlorthalidone	may	add	to	or	potentiate	the	action	of	other	antihypertensive_drugs	.	.
+DDI-DrugBank.d355.s2	Concurrent	administration	of	oxyphenbutazone	and	androgens	may	result	in	elevated	serum	levels	of	oxyphenbutazone	.	.
+DDI-DrugBank.d509.s2	1-	adrenergic	receptor	antagonism	,	aripiprazole	has	the	potential	to	enhance	the	effect	of	certain	antihypertensive_agents	.	.
+DDI-DrugBank.d531.s29	In	uninfected	volunteers	,	46	%	developed	rash	while	receiving	SUSTIVA	and	clarithromycin	.	.
+DDI-DrugBank.d531.s50	Plasma	concentrations	increased	by	SUSTIVA	(	efavirenz	)	,	.
+DDI-DrugBank.d489.s2	Catecholamine	-	depleting	drugs	(	e.g.	,	reserpine	)	may	have	an	additive	effect	when	given	with	beta	-	blocking	agents	.	.
+DDI-DrugBank.d556.s0	Increased	nephrotoxicity	has	been	reported	following	concomitant	administration	of	cephalosporins	and	aminoglycoside_antibiotics	.	.
+DDI-DrugBank.d272.s1	Bromocriptine_mesylate	may	interact	with	dopamine_antagonists	,	butyrophenones	,	and	certain	other	agents	.	.
+DDI-DrugBank.d43.s13	The	optimal	dosing	interval	for	coadministration	with	VIDEX	should	be	determined	by	consulting	the	appropriate	quinolone	package	insert	.	.
+DDI-DrugBank.d427.s10	multivitamins	containing	zinc	,	.
+DDI-DrugBank.d7.s2	Cyclophosphamide	treatment	,	which	causes	a	marked	and	persistent	inhibition	of	cholinesterase	activity	,	potentiates	the	effect	of	succinylcholine_chloride	.	.
+DDI-DrugBank.d500.s1	Since	bacteriostatic	drugs	may	interfere	with	the	bactericidal	action	of	penicillin	,	it	is	advisable	to	avoid	giving	tetracyclines	in	conjunction	with	penicillin	.	.
+DDI-MedLine.d38.s2	However	,	the	effects	of	stress	and	glucocorticoids	on	the	subjective	and	behavioral	effects	of	psychostimulants	have	not	been	well	studied	in	humans	.	.
+DDI-DrugBank.d434.s11	Specific	Effects	of	Felbatol	_	on	Other	Antiepileptic_Drugs	Phenytoin	,	Felbatol	_	causes	an	increase	in	steady	-	state	phenytoin	plasma	concentrations	.	.
+DDI-DrugBank.d347.s8	Sucralfate	should	not	be	taken	within	2	hours	of	FACTIVE	.	.
+DDI-DrugBank.d217.s2	Therefore	,	monitoring	of	theophylline	plasma	levels	should	be	considered	and	dosage	of	theophylline	adjusted	as	required	.	.
+DDI-DrugBank.d163.s7	It	is	not	known	if	hormonal_contraceptives	differ	in	their	effectiveness	when	used	with	Accutane	.	.
+DDI-MedLine.d58.s3	In	this	study	we	investigated	the	effect	of	ginsenosides	on	high	threshold	voltage	-	dependent	Ca(2	+	)	channel	subtypes	using	their	selective_Ca(2+)_channel_blockers	nimodipine	(	L	-	type	)	,	omega	-	conotoxin_GVIA	(	N	-	type	)	,	or	omega	-	agatoxin_IVA	(	P	-	type	)	in	bovine	chromaffin	cells	.	.
+DDI-DrugBank.d76.s4	Therefore	,	it	is	recommended	that	Fluvoxamine	Tablets	not	be	used	in	combination	with	MAOIs	,	or	within	14	days	of	discontinuing	treatment	with	a	MAOI	.	.
+DDI-DrugBank.d86.s1	Interactions	may	also	occur	with	the	following	,	anti	-	depressants	/	anti	-	anxiety_drugs	,	drugs	used	to	treat	an	overactive	thyroid	,	beta	-	blockers	(	e.g.	,	propranolol	)	,	sparfloxacin	,	grepafloxacin	,	guanethidine	,	guanadrel	,	metrizamide	,	cabergoline	,	lithium	,	narcotic	pain	medication	(	e.g.	,	codeine	)	,	drugs	used	to	aid	sleep	,	drowsiness	-	causing	antihistamines	(	e.g.	,	diphenhydramine	)	,	any	other	drugs	that	may	make	you	drowsy	.	.
+DDI-MedLine.d137.s0	Glucose	and	insulin	exert	additive	ocular	and	renal	vasodilator	effects	on	healthy	humans	.	_	.
+DDI-DrugBank.d113.s2	Aspirin	,	Concurrent	administration	of	aspirin	may	lower	meclofenamate_sodium	plasma	levels	,	possibly	by	competing	for	protein	-	binding	sites	.	.
+DDI-DrugBank.d263.s17	If	intravenous	pentamidine	is	required	to	treat	Pneumocystis	carinii	pneumonia	,	treatment	with	HIVID	should	be	interrupted	.	.
+DDI-DrugBank.d249.s2	Because	prostaglandins	play	an	important	role	in	hemostasis	,	and	NSAIDs	affect	platelet	function	as	well	,	concurrent	therapy	with	all	NSAIDs	,	including	diclofenac	,	and	warfarin	requires	close	monitoring	of	patients	to	be	certain	that	no	change	in	their	anticoagulant	dosage	is	required	.	.
+DDI-DrugBank.d3.s16	The	concurrent	use	of	TORADOL	with	muscle_relaxants	has	not	been	formally	studied	.	.
+DDI-DrugBank.d210.s31	Warfarin	,	Anticoagulant	activity	should	be	monitored	,	particularly	in	the	first	few	days	after	initiating	or	changing	VIOXX	therapy	in	patients	receiving	warfarin	or	similar	agents	,	since	these	patients	are	at	an	increased	risk	of	bleeding	complications	.	.
+DDI-DrugBank.d314.s23	In	addition	,	ketoconazole	alone	can	inhibit	adrenal	corticosteroid	synthesis	and	may	cause	adrenal	insufficiency	during	corticosteroid	withdrawal	.	.
+DDI-DrugBank.d109.s0	Ketoconazole	/	Itraconazole	,	Macrolides	,	Including	Erythromycin	.
+DDI-DrugBank.d116.s0	Careful	observation	is	required	when	amantadine	is	administered	concurrently	with	central_nervous_system_stimulants	.	.
+DDI-DrugBank.d289.s23	Ketoconazole	,	Co	-	administration	of	bosentan	125	mg	b.i.d	.	and	ketoconazole	,	a	potent	CYP3A4	inhibitor	,	increased	the	plasma	concentrations	of	bosentan	by	approximately	2-fold	.	.
+DDI-DrugBank.d469.s7	Drugs	which	may	enhance	the	neuromuscular	blocking	action	of	TRACRIUM	include	,	enflurane	,	isoflurane	,	halothane	,	certain	antibiotics	,	especially	the	aminoglycosides	and	polymyxins	,	lithium	,	magnesium	salts	,	procainamide	,	and	quinidine	.	.
+DDI-DrugBank.d59.s1	The	pressor	effects	of	ERGOMAR	and	other	vasoconstrictor_drugs	can	combine	to	cause	dangerous	hypertension	.	.
+DDI-DrugBank.d353.s2	Repeating	the	study	with	6	healthy	male	volunteers	in	the	absence	of	glibenclamide	did	not	detect	an	effect	of	acitretin	on	glucose	tolerance	.	.
+DDI-DrugBank.d295.s2	The	effects	of	coadministration	of	BARACLUDE	with	other	drugs	that	are	renally	eliminated	or	are	known	to	affect	renal	function	have	not	been	evaluated	,	and	patients	should	be	monitored	closely	for	adverse	events	when	BARACLUDE	is	coadministered	with	such	drugs	.	.
+DDI-MedLine.d15.s1	After	prolonged	administration	of	neuroleptics	the	displacing	effect	of	cerulein	,	an	analog	of	cholecystokinin	octapeptide	,	was	replaced	by	the	stimulant	action	on	3H	-	spiroperidol	binding	.	.
+DDI-DrugBank.d237.s16	certain	tetracyclic_antidepressants	(	such	as	maprotiline	)	,	.
+DDI-MedLine.d103.s4	Physiological	oral	magnesium	load	constitutes	the	best	tool	for	diagnosis	of	magnesium	deficiency	and	the	first	step	of	its	treatment	.	.
+DDI-DrugBank.d531.s37	The	optimal	dose	of	indinavir	,	when	given	in	combination	with	SUSTIVA	,	is	not	known	.	.
+DDI-MedLine.d131.s5	It	is	concluded	that	neurotensin	modulates	in	an	opposite	way	the	function	of	the	enkephalinergic	neurons	and	the	central	action	of	tuftsin	.	.
+DDI-MedLine.d66.s2	The	results	indicate	that	a	statistically	significant	difference	exists	between	the	excreted	levels	of	homocysteine	in	the	urine	of	both	control	and	levonorgestrel	-	treated	rats	and	the	levels	shown	by	rats	treated	with	ethynyl_estradiol	.	.
+DDI-DrugBank.d464.s0	Codeine	in	combination	with	other	narcotic_analgesics	,	general	anesthetics	,	phenothiazines	,	tranquilizers	,	sedative	-	hypnotics	,	or	other	CNS_depressants	(	including	alcohol	)	has	additive	depressant	effects	.	.
+DDI-DrugBank.d297.s5	There	is	insufficient	experience	to	assess	the	safety	and	efficacy	of	ORENCIA	administered	concurrently	with	anakinra	,	and	therefore	such	use	is	not	recommended	.	.
+DDI-DrugBank.d551.s2	WelChol	_	decreased	the	Cmax	and	AUC	of	sustained	-	release	verapamil	(	Calan_SR	)	by	approximately	31	%	and	11	%	,	respectively	.	.
+DDI-MedLine.d109.s9	The	harmonic	mean	elimination	half	-	life	was	45.7	and	43.4	hours	for	rofecoxib	+	digoxin	and	placebo	+	digoxin	treatments	,	respectively	.	.
+DDI-DrugBank.d172.s7	Experience	with	nonsteroidal_anti	-	inflammatory_drugs	(	NSAIDs	)	suggests	the	potential	for	interactions	with	furosemide	and	ACE_inhibitors	.	.
+DDI-DrugBank.d448.s5	Increased	ectopic	pacemaker	activity	can	occur	when	pseudoephedrine	is	used	concomitantly	with	digitalis	.	.
+DDI-DrugBank.d252.s4	The	concomitant	use	of	beta	-	adrenergic_blocking_agents	with	digitalis	and	calcium_antagonists	may	have	additive	effects	on	prolonging	atrioventricular	conduction	time	.	.
+DDI-MedLine.d36.s2	We	report	the	case	of	an	adolescent	with	altered	consciousness	caused	by	carbamazepine	overdose	with	a	positive	tricyclic_antidepressant	level	to	alert	clinicians	to	the	cross	-	reactivity	of	carbamazepine	with	a	toxicology	screen	for	tricyclic_antidepressants	.	.
+DDI-MedLine.d63.s4	Intrathecal	injection	of	naloxone	at	doses	of	0.4	to	40	micrograms	caused	a	dose	-	related	blockade	of	the	inhibition	of	the	tail	-	flick	response	induced	by	intraventricular	injection	of	beta	-	endorphin	,	and	a	high	dose	of	naloxone	(	40	micrograms	)	completely	blocked	the	tail	-	flick	inhibition	induced	by	intraventricular	beta	-	endorphin	(	16	micrograms	)	.	.
+DDI-DrugBank.d522.s24	Other	drugs	Drug	interactions	have	been	reported	with	concomitant	administration	of	erythromycin	and	other	medications	,	including	cyclosporine	,	hexobarbital	,	carbamazepine	,	alfentanil	,	disopyramide	,	phenytoin	,	bromocriptine	,	valproate	,	astemizole	,	and	lovastatin	.	.
+DDI-DrugBank.d485.s27	Non	-	nucleoside_reverse_transcriptase_inhibitors	(	NNRTIs	)	,	Nevirapine	may	decrease	plasma	levels	of	combination_hormonal_contraceptives	,	.
+DDI-DrugBank.d314.s1	Amphotericin_B	injection	and	potassium	-	depleting	agents	,	When	corticosteroids	are	administered	concomitantly	with	potassium	-	depleting	agents	(	e.g.	,	amphotericin_B	,	diuretics	)	,	patients	should	be	observed	closely	for	development	of	hypokalemia	.	.
+DDI-DrugBank.d313.s3	Beta	-	blockers	,	clonidine	,	lithium	salts	,	and	alcohol	may	either	potentiate	or	weaken	the	blood	-	glucose	-	lowering	effect	of	insulin	.	.
+DDI-DrugBank.d467.s5	Under	similar	conditions	,	bexarotene	concentrations	were	not	affected	by	concomitant	atorvastatin	administration	.	.
+DDI-DrugBank.d558.s25	Inhibitors	of	this	isoenzyme	(	e.g.	,	macrolide_antibiotics	,	azole_antifungal_agents	,	protease_inhibitors	,	serotonin_reuptake_inhibitors	,	amiodarone	,	cannabinoids	,	diltiazem	,	grapefruit	juice	,	nefazadone	,	norfloxacin	,	quinine	,	zafirlukast	)	should	be	cautiously	coadministered	with	TIKOSYN	as	they	can	potentially	increase	dofetilide	levels	.	.
+DDI-DrugBank.d512.s6	Co	-	administration	of	ketoconazole	,	a	strong	inhibitor	of	CYP3A4	,	increased	cinacalcet	exposure	following	a	single	90	mg	dose	of	Sensipar	by	2.3	fold	.	.
+DDI-DrugBank.d439.s0	Corticotropin	may	accentuate	the	electrolyte	loss	associated	with	diuretic	therapy	.	.
+DDI-DrugBank.d40.s10	The	most	commonly	occurring	drug	interactions	are	listed	below	,	;	Drugs	that	may	increase	plasma	phenytoin	concentrations	include	,	acute	alcohol	intake	,	amiodarone	,	chboramphenicol	,	chlordiazepoxide	,	cimetidine	,	diazepam	,	dicumarol	,	disulfiram	,	estrogens	,	ethosuximide	,	fluoxetine	,	H2-antagonists	,	halothane	,	isoniazid	,	methylphenidate	,	phenothiazines	,	phenylbutazone	,	salicylates	,	succinimides	,	sulfonamides	,	tolbutamide	,	trazodone	.
+DDI-DrugBank.d437.s4	HIV_Protease_Inhibitors	,	The	effect	of	amprenavir	on	total	drug	concentrations	of	other	HIV_protease_inhibitors	in	subjects	receiving	both	agents	was	evaluated	using	comparisons	to	historical	data	.	.
+DDI-DrugBank.d462.s6	Anticoagulants	,	Coagulation	parameters	should	be	tested	more	frequently	and	monitored	regularly	during	simultaneous	administration	of	high	doses	of	heparin	,	oral	anticoagulants	,	or	other	drugs	that	may	affect	the	blood	coagulation	system	or	the	thrombocyte	function	.	.
+DDI-DrugBank.d438.s30	Thus	cimetidine	appeared	to	alter	the	renal	excretion	of	both	gabapentin	and	creatinine	,	an	endogenous	marker	of	renal	function	.	.
+DDI-DrugBank.d225.s6	These	drugs	include	the	thiazides	and	other	diuretics	,	corticosteroids	,	phenothiazines	,	thyroid_products	,	estrogens	,	oral	contraceptives	,	phenytoin	,	nicotinic_acid	,	sympathomimetics	,	calcium_channel_blocking_drugs	,	and	isoniazid	.	.
+DDI-DrugBank.d236.s19	Lithium_carbonate	,	The	stimulatory	effects	of	amphetamines	may	be	inhibited	by	lithium_carbonate	.	.
+DDI-DrugBank.d172.s13	Aspirin	,	CELEBREX	can	be	used	with	low	dose	aspirin	.	.
+DDI-DrugBank.d529.s3	The	physician	should	be	cautious	when	administering	flurbiprofen	to	patients	taking	anticoagulants	.	.
+DDI-DrugBank.d95.s3	Sildenafil_citrate	;	Theoretically	,	L	-	arginine	supplements	taken	concomitantly	with	sildenafil_citrate	,	may	potentiate	the	effects	of	the	drug	.	.
+DDI-DrugBank.d78.s16	include	terfenadine	,	astemizole	,	cisapride	,	midazolam	,	and	triazolam	.	.
+DDI-DrugBank.d428.s1	Concomitant	use	of	ELLENCE	with	other	cardioactive	compounds	that	could	cause	heart	failure	(	e.g.	,	calcium_channel_blockers	)	,	requires	close	monitoring	of	cardiac	function	throughout	treatment	.	.
+DDI-DrugBank.d158.s19	Phenobarbital	,	Amphetamines	may	delay	intestinal	absorption	of	phenobarbital	,	.
+DDI-DrugBank.d420.s3	If	antacids	are	required	during	OMNICEF	therapy	,	OMNICEF	should	be	taken	at	least	2	hours	before	or	after	the	antacid	.	.
+DDI-DrugBank.d347.s7	Magnesium-	and/or	aluminum	-	containing	antacids	,	products	containing	ferrous_sulfate	(	iron	)	,	multivitamin_preparations	containing	zinc	or	other	metal	cations	,	or	Videx	(	didanosine	)	chewable	/	buffered	tablets	or	the	pediatric	powder	for	oral	solution	should	not	be	taken	within	3	hours	before	or	2	hours	after	FACTIVE	.	.
+DDI-DrugBank.d31.s1	When	other	potent	parental	antihypertensive_drugs	,	such	as	diazoxide	,	are	used	in	combination	with	hydralazine	,	patients	should	be	continuously	observed	for	several	hours	for	any	excessive	fall	in	blood	pressure	.	.
+DDI-DrugBank.d18.s1	Injection	,	Lorazepam	injection	,	like	other	injectable	benzodiazepines	,	produces	depression	of	the	central	nervous	system	when	administered	with	ethyl_alcohol	,	phenothiazines	,	barbiturates	,	MAO_inhibitors	,	and	other	antidepressants	.	When	scopolamine	is	used	concomitantly	with	injectable	lorazepam	,	an	increased	incidence	of	sedation	,	hallucinations	,	and	irrational	behavior	has	been	observed	.	.
+DDI-DrugBank.d181.s0	Oxytocin	or	other	oxytocics	(	concurrent	use	with	dinoprost	may	result	in	uterine	hypertonus	,	possibly	causing	uterine	rupture	or	cervical	laceration	,	especially	in	the	absence	of	adequate	cervical	dilatation	,	.
+DDI-DrugBank.d422.s8	The	effect	of	BREVIBLOC	on	the	duration	of	succinylcholine	-	induced	neuromuscular	blockade	was	studied	in	patients	undergoing	surgery	.	.
+DDI-DrugBank.d328.s20	Lithium	,	Valdecoxib	40	mg	BID	for	7	days	produced	significant	decreases	in	lithium	serum	clearance	(	25	%	)	and	renal	clearance	(	30	%	)	with	a	34	%	higher	serum	exposure	compared	to	lithium	alone	.	.
+DDI-MedLine.d45.s1	The	growth	of	Pseudomonas	aeruginosa	,	particularly	serotype	O11	,	in	pentazocine	and	tripelennamine	.
+DDI-DrugBank.d499.s8	Therefore	,	concurrent	use	of	aspirin	and	ketoprofen	is	not	recommended	.	.
+DDI-MedLine.d82.s4	At	stable	As(V	)	concentrations	greater	than	1	mM	,	fractional	mucosal	cell	accumulation	of	As(V	)	remains	constant	,	while	fractional	transfer	to	the	body	declines	.	.
+DDI-MedLine.d102.s6	Endothelium	-	intact	aortic	rings	from	high	-	estradiol	rats	were	supersensitive	to	noradrenaline	when	compared	to	vehicle-	,	progesterone-	and	progesterone	+	high	-	estradiol	-	treated	rats	(	pD2	values	=	7.77+/-0.12	,	7.21+/-0.13	,	6.93+/-0.04	and	7.22+/-0.18	,	respectively	)	.	.
+DDI-MedLine.d30.s2	Intermediate	doses	of	(	+	)	-NANM	or	PCP	produced	transient	increases	in	FI	responding	in	monkeys	and	sustained	increases	in	FI	responding	in	pigeons	,	.
+DDI-DrugBank.d165.s21	therefore	,	plasma	concentrations	of	phenytoin	should	also	be	monitored	when	it	is	given	concurrently	with	Itraconazole	.	.
+DDI-DrugBank.d88.s5	Leucovorin	,	The	concentration	of	5-fluorouracil	is	increased	and	its	toxicity	may	be	enhanced	by	leucovorin	.	.
+DDI-MedLine.d82.s2	By	this	procedure	,	it	was	observed	that	arsenate	is	rapidly	and	essentially	completely	absorbed	(	80	-	95	%	)	from	the	lumen	at	As(V	)	concentrations	up	to	5	mM	,	declining	to	about	50	%	absorption	at	50	mM.	.
+DDI-MedLine.d103.s2	Primary	and	secondary	magnesium	deficiencies	constitute	the	sole	indication	of	physiological	oral	magnesium	therapy	.	.
+DDI-DrugBank.d414.s7	Therefore	,	when	EDECRIN	and	non-_steroidal_anti-_inflammatory_agents	are	used	concomitantly	,	the	patient	should	be	observed	closely	to	determine	if	the	desired	effect	of	the	diuretic	is	obtained	.	.
+DDI-DrugBank.d307.s43	Therefore	,	concurrent	use	of	Trileptal	with	hormonal_contraceptives	may	render	these	contraceptives	less	effective	.	.
+DDI-MedLine.d48.s3	Diethyl_pyrocarbonate	,	at	pH	7.0	,	was	used	to	chemically	modify	exposed	histidine	residues	on	toxin_A.	.
+DDI-DrugBank.d28.s3	However	,	10	patients	who	switched	from	therapy	with	Interferon_beta	to	COPAXONE	_	did	not	report	any	serious	and	unexpected	adverse	reactions	thought	to	be	related	to	treatment	.	.
+DDI-DrugBank.d14.s0	The	vasodilating	effects	of	nitroglycerin	may	be	additive	with	those	of	other	vasodilators	.	.
+DDI-DrugBank.d132.s2	Accordingly	,	when	diflunisal	is	administered	with	oral	anticoagulants	,	the	prothrombin	time	should	be	closely	monitored	during	and	for	several	days	after	concomitant	drug	administration	.	.
+DDI-DrugBank.d458.s7	Human	pharmacokinetics	data	indicate	that	oral	ketoconazole	potently	inhibits	the	metabolism	of	cisapride	resulting	in	a	mean	eight	-	fold	increase	in	AUC	of	cisapride	.	.
+DDI-MedLine.d119.s16	Although	this	effect	was	noted	even	when	cholestyramine	was	given	4	hours	prior	to	fluvastatin	,	this	regimen	did	not	result	in	diminished	efficacy	.	.
+DDI-MedLine.d3.s7	Amprenavir	significantly	increased	the	area	under	the	curve	at	steady	state	(	AUC(ss	)	)	of	rifabutin	by	2.93-fold	and	the	AUC(ss	)	of	25-O	-	desacetylrifabutin	by	13.3-fold	.	.
+DDI-DrugBank.d48.s10	If	antacid	therapy	is	needed	,	the	antacid	dose	should	be	administered	at	least	2	hours	prior	to	or	2	hours	after	the	dose	of	SPRYCEL	.	.
+DDI-DrugBank.d485.s31	Prednisolone	,	Ethinyl_estradiol	may	inhibit	the	metabolism	of	prednisolone	,	leading	to	increased	plasma	concentrations	.	.
+DDI-DrugBank.d549.s0	In	studies	in	normal	volunteers	,	there	was	no	pharmacodynamic	interaction	between	intravenous	iloprost	and	either	nifedipine	,	diltiazem	,	or	captopril	.	.
+DDI-DrugBank.d29.s13	Coadministration	of	oral	contraceptives	,	diazepam	,	phenytoin	,	or	quinidine	did	not	seem	to	change	the	pharmacokinetic	profile	of	esomeprazole	.	.
+DDI-DrugBank.d202.s16	Therefore	,	co	-	administration	of	tricyclic_antidepressants	with	other	drugs	that	are	metabolized	by	this	isoenzyme	,	including	other	antidepressants	,	phenothiazines	,	carbamazepine	,	and	Type_1C_antiarrhythmics	(	eg	,	propafenone	,	flecainide	,	and	encainide	)	,	or	that	inhibit	this	enzyme	(	eg	,	quinidine	)	,	should	be	approached	with	caution	.	.
+DDI-MedLine.d131.s4	On	the	contrary	,	neurotensin	and	tuftsin	were	agonists	in	induction	of	analgesia	.	.
+DDI-DrugBank.d516.s8	Caffeine	,	Two	hundred	mg	of	caffeine	(	equivalent	to	1	to	3	cups	of	American	coffee	)	was	administered	to	16	normal	,	healthy	volunteers	who	had	achieved	steady	-	state	blood	concentrations	of	lomefloxacin	after	being	dosed	at	400	mg	qd	.	.
+DDI-DrugBank.d3.s2	Ketorolac	does	not	alter	digoxin	protein	binding	.	.
+DDI-DrugBank.d373.s14	If	nifedipine	therapy	is	initiated	in	a	patient	currently	receiving	cimetidine	,	cautious	titration	is	advised	.	.
+DDI-DrugBank.d548.s21	However	,	co	-	administration	of	Duloxetine	with	aluminum-	and	magnesium	-	containing	antacids	(	51	mEq	)	or	Duloxetine	with	famotidine	,	had	no	significant	effect	on	the	rate	or	extent	of	duloxetine	absorption	after	administration	of	a	40-mg	oral	dose	.	.
+DDI-MedLine.d76.s10	Conjugation	at	NaCMC	with	cysteine	moieties	significantly	improves	the	intestinal	permeation	of	the	hydrophilic	molecule	NaFlu	and	the	model	peptide	drugs	bacitracin	and	insulin	in	vitro	,	therefore	this	conjugated	system	maybe	useful	for	peroral	administration	of	peptide	drugs	in	the	future	.	.
+DDI-DrugBank.d198.s16	Other	Drug	Interactions	,	No	pharmacokinetic	interactions	were	observed	between	vardenafil	and	the	following	drugs	,	glyburide	,	warfarin	,	digoxin	,	Maalox	,	and	ranitidine	.	.
+DDI-DrugBank.d314.s17	Estrogens	,	including	oral	contraceptives	,	Estrogens	may	decrease	the	hepatic	metabolism	of	certain	corticosteroids	,	thereby	increasing	their	effect	.	.
+DDI-DrugBank.d270.s9	The	in	vitro	interaction	between	nevirapine	and	the	antithrombotic_agent	warfarin	is	complex	.	.
+DDI-DrugBank.d53.s15	Cyclosporine	,	hexobarbital	and	phenytoin	concentrations	.	.
+DDI-DrugBank.d289.s18	Therefore	,	the	concomitant	administration	of	TRACLEER	and	glyburide	is	contraindicated	,	and	alternative	hypoglycemic_agents	should	be	considered	.	.
+DDI-DrugBank.d141.s13	OTHER	CONCOMITANT	THERAPY	,	Although	specific	interaction	studies	were	not	performed	,	in	clinical	studies	,	cerivastatin_sodium	was	used	concomitantly	with	angiotensin-_converting_enzyme_(ACE)_inhibitors	,	betablockers	,	calcium	-	channel_blockers	,	diuretics	,	and	nonsteroidal_anti	-	inflammatory_drugs	(	NSAIDs	)	without	evidence	of	clinically	significant	adverse	interactions	.	.
+DDI-DrugBank.d141.s9	WARFARIN	,	Co-	administration	of	warfarin	and	cerivastatin	to	healthy	volunteers	did	not	result	in	any	changes	in	prothrombin	time	or	clotting	factor	VII	when	compared	to	co	-	administration	of	warfarin	and	placebo	.	.
+DDI-DrugBank.d98.s15	Magnesium	,	Magnesium	-	containing	preparations	(	eg	,	antacids	)	may	cause	hypermagnesemia	and	should	therefore	not	be	taken	during	therapy	with	vitamin_D	by	patients	on	chronic	renal	dialysis	.	.
+DDI-DrugBank.d558.s18	In	the	DIAMOND	trials	,	1252	patients	were	treated	with	TIKOSYN	and	diuretics	concomitantly	of	whom	493	died	compared	to	508	deaths	among	the	1248	patients	receiving	placebo	and	diuretics	.	.
+DDI-DrugBank.d226.s0	Intravenous	Adenocard	(	adenosine	)	has	been	effectively	administered	in	the	presence	of	other	cardioactive	drugs	,	such	as	quinidine	,	beta	-	adrenergic_blocking_agents	,	calcium_channel_blocking_agents	,	and	angiotensin_converting_enzyme_inhibitors	,	without	any	change	in	the	adverse	reaction	profile	.	.
+DDI-DrugBank.d340.s11	therefore	,	VIRACEPT	should	not	be	administered	concurrently	with	terfenadine	because	of	the	potential	for	serious	and/or	life	-	threatening	cardiac	arrhythmias	.	.
+DDI-MedLine.d83.s15	Pharmacoeconomic	analyses	indicate	that	olanzapine	does	not	significantly	increase	,	and	may	even	decrease	,	the	overall	direct	treatment	costs	of	schizophrenia	,	compared	with	haloperidol	.	.
+DDI-DrugBank.d89.s4	Caffeine	administered	concurrently	with	ketoprofen	reduced	the	urine	volume	in	4	healthy	volunteers	.	.
+DDI-DrugBank.d162.s11	Refer	to	the	package	insert	for	lithium	preparations	before	use	of	such	preparations	with	Hydrochlorothiazide	.	.
+DDI-DrugBank.d382.s35	Ketoconazole	,	When	a	single	125-mg	dose	of	Aprepitant	was	administered	on	Day5	of	a	.
+DDI-DrugBank.d314.s2	In	addition	,	there	have	been	cases	reported	in	which	concomitant	use	of	amphotericin_B	and	hydrocortisone	was	followed	by	cardiac	enlargement	and	congestive	heart	failure	.	.
+DDI-DrugBank.d74.s4	Caution	should	also	be	applied	for	other	sympathomimetics	,	and	for	aminophylline	and	theophylline	and	tricyclic_antidepressants	,	which	may	also	precipitate	arrhythmias	.	.
+DDI-DrugBank.d537.s0	Bentiromide	may	interact	with	acetaminophen	(	e.g.	,	Tylenol	)	,	chloramphenicol	(	e.g.	,	Chloromycetin	)	,	local	anesthetics	(	e.g.	,	benzocaine	and	lidocaine	)	,	para	-	aminobenzoic_acid	(	PABA)-containing	preparations	(	e.g.	,	sunscreens	and	some	multivitamins	)	,	procainamide	(	e.g.	,	Pronestyl	)	,	sulfonamides	(	sulfa	medicines	)	,	thiazide_diuretics	(	use	of	these	medicines	during	the	test	period	will	affect	the	test	results	)	,	and	pancreatic	supplements	(	use	of	pancreatic	supplements	may	give	false	test	results	)	.	.
+DDI-MedLine.d29.s3	To	determine	whether	probenecid	has	a	direct	effect	on	the	distribution	of	cloxacillin	,	the	elimination	and	distribution	of	cloxacillin	was	studied	in	six	patients	,	five	lacking	kidney	function	and	one	with	a	partially	impaired	renal	function	,	in	the	presence	or	absence	of	probenecid	.	.
+DDI-DrugBank.d328.s40	Drugs	whose	absorption	is	sensitive	to	pH	may	be	negatively	impacted	by	concomitant	administration	of	omeprazole	and	valdecoxib	.	.
+DDI-DrugBank.d104.s1	Other	CNS_depressant_drugs	should	be	used	with	caution	in	patients	taking	fenfluramine	,	since	the	effects	may	be	additive	.	.
+DDI-DrugBank.d350.s14	When	CANCIDAS	is	co	-	administered	with	inducers	of	drug	clearance	,	such	as	efavirenz	,	nevirapine	,	phenytoin	,	dexamethasone	,	or	carbamazepine	,	use	of	a	daily	dose	of	70	mg	of	CANCIDAS	should	be	considered	.
+DDI-MedLine.d110.s0	18-Methoxycoronaridine	(	18-MC	)	and	ibogaine	,	comparison	of	antiaddictive	efficacy	,	toxicity	,	and	mechanisms	of	action	.	_	.
+DDI-DrugBank.d113.s1	Therefore	,	when	meclofenamate_sodium	is	given	to	a	patient	receiving	warfarin	,	the	dosage	of	warfarin	should	be	reduced	to	prevent	excessive	prolongation	of	the	prothrombin	time	.	.
+DDI-DrugBank.d150.s0	FLEXERIL	may	have	life	-	threatening	interactions	with	MAO_inhibitors	.	.
+DDI-DrugBank.d328.s21	Lithium	serum	concentrations	should	be	monitored	closely	when	initiating	or	changing	therapy	with	BEXTRA	in	patients	receiving	lithium	.	.
+DDI-DrugBank.d158.s3	Antidepressants	,	tricyclic	Amphetamines	may	enhance	the	activity	of	tricyclic_antidepressants	or	sympathomimetic_agents	,	.
+DDI-DrugBank.d307.s17	Influence	of	AED	On	MHD	Concentration	(	Mean	change	,	90	%	Confidence	Interval	)	.
+DDI-DrugBank.d495.s5	The	effects	of	tricyclic_antidepressants	on	clonidines	analgesic	actions	are	not	known	.	.
+DDI-DrugBank.d82.s16	Capsules	INDOCIN	50	mg	t.i.d	.	produced	a	clinically	relevant	elevation	of	plasma	lithium	and	reduction	in	renal	lithium	clearance	in	psychiatric	patients	and	normal	subjects	with	steady	state	plasma	lithium	concentrations	.	.
+DDI-DrugBank.d143.s17	This	information	should	be	considered	when	changing	from	intravenous	amiodarone	to	oral	amiodarone	.	.
+DDI-DrugBank.d176.s9	Antacids	,	In	a	clinical	pharmacology	study	,	coadministration	of	an	antacid	(	aluminum_hydroxide	,	magnesium_hydroxide	,	and	simethicone	)	with	fosinopril	reduced	serum	levels	and	urinary	excretion	of	fosinoprilat	as	compared	with	fosinopril	administered	alone	,	suggesting	that	antacids	may	impair	absorption	of	fosinopril	.	.
+DDI-MedLine.d56.s8	Exposure	of	the	muscle	to	ouabain	(	10(-5	)	M	)	markedly	increased	the	PTX	-	induced	release	.	.
+DDI-DrugBank.d270.s18	Clarithromycin	exposure	was	significantly	decreased	by	nevirapine	,	.
+DDI-DrugBank.d455.s4	In	vitro	studies	have	shown	no	binding	displacement	between	entacapone	and	other	highly	bound	drugs	,	such	as	warfarin	,	salicylic_acid	,	phenylbutazone	,	and	diazepam	.	.
+DDI-DrugBank.d143.s51	Other	reported	interactions	with	amiodarone	,	Fentanyl	(	CYP3A4	substrate	)	in	combination	with	amiodarone	may	cause	hypotension	,	bradycardia	,	and	decreased	cardiac	output	.	.
+DDI-DrugBank.d228.s1	Similarly	,	ethanol	decreased	the	rate	of	elimination	of	Antizol	(	by	approximately	50	%	)	by	the	same	mechanism	.	.
+DDI-DrugBank.d143.s34	because	of	this	,	the	dosage	of	flecainide	should	be	adjusted	when	these	drugs	are	administered	concomitantly	.	.
+DDI-DrugBank.d306.s0	The	effectiveness	of	progestin	-	only	pills	is	reduced	by	hepatic	enzyme	-	inducing	drugs	such	as	the	anticonvulsants	phenytoin	,	carbamazepine	,	and	barbiturates	,	and	the	antituberculosis_drug	rifampin	.	.
+DDI-DrugBank.d416.s0	Renal	clearance	measurements	of	PAH	can	not	be	made	with	any	significant	accuracy	in	patients	receiving	sulfonamides	,	procaine	,	or	thiazolesulfone	.	.
+DDI-DrugBank.d458.s19	When	taken	orally	,	imidazole_compounds	like	ketoconazole	may	enhance	the	anticoagulant	effect	of	coumarin	-	like	drugs	.	.
+DDI-DrugBank.d186.s0	An	encephalopathic	syndrome	(	characterized	by	weakness	,	lethargy	,	fever	,	tremulousness	and	confusion	,	extrapyramidal	symptoms	,	leukocytosis	,	elevated	serum	enzymes	,	BUN	,	and	FBS	)	followed	by	irreversible	brain	damage	has	occurred	in	a	few	patients	treated	with	lithium	plus	HALDOL	.	.
+DDI-DrugBank.d558.s8	In	an	analysis	of	the	supraventricular	arrhythmia	and	DIAMOND	patient	populations	,	the	concomitant	administration	of	verapamil	with	dofetilide	was	associated	with	a	higher	occurrence	of	torsade	de	pointes	.	.
+DDI-DrugBank.d312.s2	Irinotecan	concentrations	were	similar	in	patients	receiving	bolus	-	IFL	alone	and	in	combination	with	AVASTIN	.	.
+DDI-DrugBank.d12.s0	Caution	should	be	exercised	when	anticoagulants	are	given	in	conjunction	with	Atromid	-	S.	.
+DDI-DrugBank.d208.s0	Benzthiazide	may	interact	with	alcohol	,	blood_thinners	,	decongestant_drugs	(	allergy	,	cold	,	and	sinus	medicines	)	,	diabetic	drugs	,	lithium	,	norepinephrine	,	NSAIDs	like	Aleve	or	Ibuprofen	,	and	high	blood	pressure	medications	.	.
+DDI-DrugBank.d76.s31	Thus	patients	receiving	oral	anticoagulants	and	Fluvoxamine	Tablets	should	have	their	prothrombin	time	monitored	and	their	anticoagulant	dose	adjusted	accordingly	.	.
+DDI-DrugBank.d477.s1	DIDREX	should	not	be	used	concomitantly	with	other	CNS_stimulants	.	.
+DDI-DrugBank.d170.s3	The	concomitant	use	of	other	CYP3A4	inhibitors	such	as	diltiazem	and	erythromycin	with	transdermal	fentanyl	may	also	result	in	an	increase	in	fentanyl	plasma	concentrations	,	which	could	increase	or	prolong	adverse	drug	effects	and	may	cause	serious	respiratory	depression	.	.
+DDI-DrugBank.d158.s17	Methenamine	therapy	Urinary	excretion	of	amphetamines	is	increased	,	and	efficacy	is	reduced	by	acidifying	agents	used	in	methenamine	therapy	.	.
+DDI-DrugBank.d82.s13	INDOCIN	has	been	reported	to	decrease	the	tubular	secretion	of	methotrexate	and	to	potentiate	its	toxicity	.	.
+DDI-DrugBank.d317.s4	decreased	levels	of	anti	-	factor	Xa	and	antithrombin_III	,	decreased	antithrombin_III	activity	,	.
+DDI-DrugBank.d478.s5	If	concomitant	treatment	with	naratriptan	and	an	SSRI	is	clinically	warranted	,	appropriate	observation	of	the	patient	is	advised	.	.
+DDI-MedLine.d5.s1	Interactions	between	treatments	with	coumaphos	,	bishydroxycoumarin	(	an	anticoagulant	)	,	trichlorfon	(	an	organophosphorous_compound	)	,	and	phenobarbital_sodium	(	an	inducer	of	microsomal	enzymes	)	were	investigated	in	sheep	.	.
+DDI-DrugBank.d334.s20	It	is	recommended	that	serum	lithium	levels	be	monitored	frequently	if	PRINIVIL	is	administered	concomitantly	with	lithium	.	.
+DDI-MedLine.d18.s8	Analysis	of	the	concentration	of	budesonide	following	ultracentrifugation	indicated	that	there	is	rapid	equilibration	of	budesonide	between	the	Survanta	and	aqueous	phase	.	.
+DDI-DrugBank.d132.s23	The	concomitant	use	of	diflunisal	tablets	and	other	NSAIDs	is	not	recommended	due	to	the	increased	possibility	of	gastrointestinal	toxicity	,	with	little	or	no	increase	in	efficacy	.	.
+DDI-MedLine.d119.s18	Moreover	,	additional	interaction	studies	with	niacin	and	propranolol	have	not	demonstrated	any	effect	on	fluvastatin	plasma	levels	,	and	administration	to	a	patient	population	chronically	receiving	digoxin	resulted	in	no	difference	in	the	extent	of	bioavailability	of	digoxin	relative	to	control	data	.	.
+DDI-DrugBank.d369.s3	The	response	to	Factrel	may	be	blunted	by	phenothiazines	and	dopamine_antagonists	which	cause	a	rise	in	prolactin	.	.
+DDI-DrugBank.d487.s7	The	effect	of	corticosteroids	on	oral	anticoagulants	is	variable	.	.
+DDI-MedLine.d130.s4	Cisplatin	was	administered	over	the	last	two	hours	of	the	thiosulfate	infusion	.	.
+DDI-DrugBank.d103.s26	Guardians	of	children	who	have	been	prescribed	FORADIL	should	be	alerted	to	the	general	concern	regarding	asthma	therapy	compliance	,	especially	neglect	of	anti	-	inflammatory	therapy	and	overuse	of	short	-	acting__beta2-agonists	.	.
+DDI-DrugBank.d246.s12	It	is	not	known	if	the	effects	of	butorphanol	are	altered	by	concomitant	medications	that	affect	hepatic	metabolism	of	drugs	(	erythromycin	,	etc	.	)	,	but	physicians	should	be	alert	to	the	possibility	that	a	smaller	initial	dose	and	longer	intervals	between	doses	may	be	needed	.	.
+DDI-DrugBank.d565.s28	The	effect	of	cyclosporine	on	diltiazem	plasma	concentrations	has	not	been	evaluated	.	.
+DDI-DrugBank.d256.s0	Clindamycin	has	been	shown	to	have	neuromuscular	blocking	properties	that	may	enhance	the	action	of	other	neuromuscular_blocking_agents	.	.
+DDI-DrugBank.d449.s0	Co	-	administration	with	antifungal_agents	such	as	ketoconazole	or	itraconazole	is	not	recommended	.	.
+DDI-DrugBank.d503.s7	Exert	particular	caution	in	combining	chlorprothixene	with	other	anticholinergic_drugs	(	tricyclic_antidepressants	and	antiparkinsonian_agents	)	,	Particularly	the	elderly	may	develop	delirium	,	high	fever	,	severe	obstipation	,	even	ileus	and	glaucoma	.	.
+DDI-DrugBank.d516.s12	Cimetidine	,	Cimetidine	has	been	demonstrated	to	interfere	with	the	elimination	of	other	quinolones	.	.
+DDI-DrugBank.d20.s12	Therefore	,	when	INSPRA	and	NSAIDs	are	used	concomitantly	,	patients	should	be	observed	to	determine	whether	the	desired	effect	on	blood	pressure	is	obtained	.	.
+DDI-MedLine.d94.s12	The	uptake	inhibitors	cocaine	and	desipramine	(	3	mumol	/	liter	)	potentiated	the	positive	inotropic	effects	of	norepinephrine	in	nonfailing	myocardium	(	p	<	0.05	)	but	not	in	functional	class	IV	myocardium	.	.
+DDI-DrugBank.d216.s7	The	AUC	of	eszopiclone	was	increased	2.2-fold	by	coadministration	of	ketoconazole	,	a	potent	inhibitor	of	CYP3A4	,	400	mg	daily	for	5	days	.	.
+DDI-MedLine.d49.s3	Gentamicin	did	not	interfere	with	the	activity	of	clindamycin	within	the	range	of	concentrations	tested	(	0.1	to	100	mug	/	ml	)	,	.
+DDI-DrugBank.d138.s2	Caution	in	using	concomitant	drugs	such	as	beta	-	blockers	(	ophthalmic	and	systemic	)	,	anti	-	hypertensives	and/or	cardiac_glycosides	is	advised	.	.
+DDI-DrugBank.d165.s17	Rhabdomyolysis	has	been	observed	in	patients	receiving	HMG	-	CoA_reductase_inhibitors	administered	alone	(	at	recommended	dosages	)	or	concomitantly	with	immunosuppressive_drugs	including	cyclosporine	.	.
+DDI-DrugBank.d135.s11	Other	Chemotherapy	Agents	In	a	separate	study	,	concomitant	administration	of	lapatinib	with	capecitabine	did	not	meaningfully	alter	the	pharmacokinetics	of	either	agent	(	or	the	metabolites	of	capecitabine	)	.	.
+DDI-DrugBank.d132.s21	In	some	patients	the	combined	use	of	indomethacin	and	diflunisal	has	been	associated	with	fatal	gastrointestinal	hemorrhage	.	.
+DDI-DrugBank.d550.s3	Although	the	clinical	significance	is	not	known	,	it	is	not	recommended	that	cefditoren_pivoxil	be	taken	concomitantly	with	H2_receptor_antagonists	.	.
+DDI-DrugBank.d499.s20	Therefore	,	the	combination	of	ketoprofen	and	probenecid	is	not	recommended	.	.
+DDI-DrugBank.d495.s10	Epidural	clonidine	may	prolong	the	duration	of	pharmacologic	effects	of	epidural	local	anesthetics	,	including	both	sensory	and	motor	blockade	.	.
+DDI-DrugBank.d568.s28	However	,	coadministration	of	escitalopram	(	20	mg	)	and	ritonavir	(	600	mg	)	,	a	potent	inhibitor	of	CYP3A4	,	did	not	significantly	affect	the	pharmacokinetics	of	escitalopram	.	.
+DDI-DrugBank.d380.s0	Buprenorphine	is	metabolized	to	norbuprenorphine	by	cytochrome	CYP	3A4	.	.
+DDI-DrugBank.d485.s12	Anticonvulsants	(	carbamazepine	,	felbamate	,	phenobarbital	,	phenytoin	,	topiramate	)	,	Increase	the	metabolism	of	ethinyl_estradiol	and/or	some	progestins	,	leading	to	possible	decrease	in	contraceptive	effectiveness	.	.
+DDI-DrugBank.d187.s11	Therophylline	,	A	recent	study	has	shown	that	concomitan	administration	of	isoniazid	and	theophylline	may	cause	elevated	plasma	levels	of	theophylline	,	and	in	some	instances	a	slight	decrease	in	the	elimination	of	isoniazid	.	.
+DDI-MedLine.d21.s8	An	oral	glucose	overload	of	1	ml	of	a	50	%	glucose	solution	was	given	to	rats	and	blood	glucose	was	determined	after	30	,	60	and	90	min	.	.
+DDI-DrugBank.d567.s13	Coumarin_Anticoagulants	,	In	a	small	clinical	trial	in	which	lovastatin	was	administered	to	warfarin	treated	patients	,	no	effect	on	prothrombin	time	was	detected	.	.
+DDI-DrugBank.d197.s2	Specific	studies	have	confirmed	these	effects	with	sevoflurane	,	isoflurane	,	propofol	,	alfentanil	,	and	midazolam	.	.
+DDI-DrugBank.d207.s8	Phase	II	clinical	trial	data	,	where	IRESSA	and	vinorelbine	have	been	used	concomitantly	,	indicate	that	IRESSA	may	exacerbate	the	neutropenic	effect	of	vinorelbine	.	.
+DDI-DrugBank.d231.s12	The	intake	of	furosemide	and	sucralfate	should	be	separated	by	at	least	two	hours	.	.
+DDI-DrugBank.d400.s6	Furosemide	,	Clinical	studies	,	as	well	as	post	-	marketing	observations	,	have	shown	that	NSAIDs	can	reduce	the	natriuretic	effect	of	furosemide	and	thiazides	in	some	patients	.	.
+DDI-MedLine.d76.s1	The	purpose	of	this	study	was	to	evaluate	the	effect	of	sodium_carboxymethylcellulose	(	NaCMC	)	and	carboxymethylcellulose	-	cysteine	(	CMC	-	Cys	)	conjugates	on	the	intestinal	permeation	of	sodium_fluorescein	(	NaFlu	)	and	model	peptide	drugs	,	bacitracin	and	insulin	.	.
+DDI-DrugBank.d430.s0	Intravenous	ranitidine	was	shown	to	double	the	bioavailability	of	oral	alendronate	.	.
+DDI-DrugBank.d413.s19	However	,	in	a	well	-	controlled	study	of	patients	with	lymphoma	on	combination	therapy	,	allopurinol	did	not	increase	the	marrow	toxicity	of	patients	treated	with	cyclophosphamide	,	doxorubicin	,	bleomycin	,	procarbazine	and/or	mechlorethamine	.	.
+DDI-DrugBank.d568.s25	Ketoconazole	;	Combined	administration	of	racemic	citalopram	(	40	mg	)	and	ketoconazole	(	200	mg	)	decreased	the	Cmax	and	AUC	of	ketoconazole	by	21	%	and	10	%	,	respectively	,	and	did	not	significantly	affect	the	pharmacokinetics	of	citalopram	.	.
+DDI-DrugBank.d458.s23	It	is	suggested	to	monitor	both	ketoconazole	and	phenytoin	.	.
+DDI-DrugBank.d250.s4	The	concomitant	use	of	sodium_cephalothin	and	Coly	-	Mycin_M	Parenteral	should	be	avoided	.	.
+DDI-DrugBank.d217.s13	Some	quinolones	have	also	been	shown	to	interfere	with	the	metabolism	of	caffeine	.	.
+DDI-DrugBank.d145.s0	Plasma	levels	of	anticonvulsant_agents	may	become	subtherapeutic	during	cisplatin	therapy	.	.
+DDI-DrugBank.d388.s2	Exaggerated	hypertensive	responses	have	been	reported	from	the	combined	use	of	beta	-	adrenergic_antagonists	and	alpha	-	adrenergic_stimulants	,	including	those	contained	in	proprietary	cold	remedies	and	vasoconstrictive	nasal	drops	.	.
+DDI-DrugBank.d141.s6	Therefore	,	it	would	be	expected	that	a	dosing	schedule	of	cerivastatin_sodium	given	at	bedtime	and	cholestyramine	given	before	the	evening	meal	would	not	result	in	a	significant	decrease	in	the	clinical	effect	of	cerivastatin_sodium	.	.
+DDI-DrugBank.d143.s56	Cholestyramine	increases	enterohepatic	elimination	of	amiodarone	and	may	reduce	its	serum	levels	and	t1/2	.	.
+DDI-DrugBank.d225.s12	All	subjects	received	glipizide	alone	and	following	treatment	with	100	mg	of	fluconazole	as	a	single	daily	oral	dose	for	seven	days	.	.
+DDI-DrugBank.d221.s2	Although	the	specific	drug	interaction	was	not	studied	in	a	clinical	trial	,	there	have	been	more	than	50	episodes	of	concomitant	use	of	antifibrinolytic	therapies	(	i.e.	,	tranexamic_acid	,	aminocaproic_acid	)	and	NovoSeven	.	.
+DDI-DrugBank.d324.s28	Drugs	That	Inhibit	Both	Aldehyde	Oxidase	and	CYP3A4	Cimetidine	,	Cimetidine	inhibits	both	aldehyde	oxidase	(	in	vitro	)	and	CYP3A4	(	in	vitro	and	in	vivo	)	,	the	primary	and	secondary	enzymes	,	respectively	,	responsible	for	zaleplon	metabolism	.	.
+DDI-DrugBank.d107.s4	Non	-	steroidal_Anti	-	inflammatory_Agents	,	In	some	patients	with	compromised	renal	function	who	are	being	treated	with	nonsteroidal_anti	-	inflammatory_drugs	,	the	co	-	administration	of	enalapril	may	result	in	a	further	deterioration	of	renal	function	.	.
+DDI-DrugBank.d219.s27	Drug	/	Laboratory	Test	Interactions	The	urine	of	patients	who	take	Lodine	can	give	a	false	-	positive	reaction	for	urinary	bilirubin	(	urobilin	)	due	to	the	presence	of	phenolic	metabolites	of	etodolac	.	.
+DDI-DrugBank.d559.s1	Butalbital	,	acetaminophen	and	caffeine	may	enhance	the	effects	of	,	other	narcotic_analgesics	,	alcohol	,	general	anesthetics	,	tranquilizers	such	as	chlordiazepoxide	,	sedative	-	hypnotics	,	or	other	CNS_depressants	,	causing	increased	CNS	depression	.	.
+DDI-MedLine.d87.s0	ADL_8	-	2698	,	a	trans-3,4-dimethyl-4-(3-hydroxyphenyl	)	piperidine	,	prevents	gastrointestinal	effects	of	intravenous	morphine	without	affecting	analgesia	.	_	.
+DDI-MedLine.d113.s0	Acid	-	catalyzed	ethanolysis	of	temazepam	in	anhydrous	and	aqueous	ethanol	solutions	.	.
+DDI-MedLine.d90.s1	Evoked	hind	limb	digital	extensor	tension	(	hoof	twitch	)	was	maintained	at	40	%	of	baseline	for	1	h	by	atracurium	infusion	in	7	horses	anaesthetised	with	halothane	.	.
+DDI-DrugBank.d246.s2	In	healthy	volunteers	,	the	pharmacokinetics	of	a	1-mg	dose	of	butorphanol	administered	as	STADOL_NS	were	not	affected	by	the	coadministration	of	a	single	6-mg	subcutaneous	dose	of	sumatriptan	.	.
+DDI-DrugBank.d237.s2	Antibiotics	,	In	vitro	and/or	in	vivo	data	show	that	clarithromycin	,	erythromycin	,	and	troleandomycin	markedly	inhibit	the	metabolism	of	cisapride	,	which	can	result	in	an	increase	in	plasma	cisapride	levels	and	prolongation	of	the	QT	interval	on	the	ECG	.	.
+DDI-DrugBank.d236.s27	Propoxyphene	,	In	cases	of	propoxyphene	overdosage	,	amphetamine	CNS	stimulation	is	potentiated	and	fatal	convulsions	can	occur	.	.
+DDI-MedLine.d99.s11	The	clearance	by	means	of	4-hydroxytolbutamide	and	carboxytolbutamide	was	significantly	reduced	in	both	groups	(	ie	,	from	901	mL	/	h	to	318	mL	/	h	in	the	group	that	received	150	mg	of	tolbutamide	per	day	and	from	723	mL	/	h	to	457	mL	/	h	in	the	group	that	received	75	mg	of	tolbutamide	per	day	)	.	.
+DDI-DrugBank.d356.s4	In	some	patients	,	the	administration	of	a	non	-	steroidal_anti	-	inflammatory_agent	can	reduce	the	diuretic	,	natriuretic	,	and	antihypertensive	effects	of	loop	,	potassium	-	sparing	and	thiazide_diuretics	.	.
+DDI-DrugBank.d568.s39	Concomitant	Administration	with	Racemic	Citalopram	Citalopram	;	Since	escitalopram	is	the	active	isomer	of	racemic	citalopram	(	Celexa	)	,	the	two	agents	should	not	be	coadministered	.	.
+DDI-DrugBank.d467.s3	Furthermore	,	rifampin	,	phenytoin	,	phenobarbital	,	and	other	inducers	of	cytochrome	P450	3A4	may	cause	a	reduction	in	plasma	bexarotene	concentrations	.	.
+DDI-DrugBank.d435.s0	Exemestane	is	extensively	metabolized	by	CYP	3A4	,	but	coadministration	of	ketoconazole	,	a	potent	inhibitor	of	CYP	3A4	,	has	no	significant	effect	on	exemestane	pharmacokinetics	.	.
+DDI-DrugBank.d352.s4	Concurrent	use	of	phenothiazines	may	antagonize	the	anorectic	effect	of	diethylpropion	.	.
+DDI-DrugBank.d485.s43	ETHANOL	/	NUTRITION	/	HERB	INTERACTIONS	,	Food	,	CNS	effects	of	caffeine	may	be	enhanced	if	combination_hormonal_contraceptives	are	used	concurrently	with	caffeine	.	.
+DDI-DrugBank.d249.s10	Oral	Hypoglycemics	,	Diclofenac	does	not	alter	glucose	metabolism	in	normal	subjects	nor	does	it	alter	the	effects	of	oral	hypoglycemic_agents	.	.
+DDI-DrugBank.d271.s0	Physiological	changes	resulting	from	smoking	cessation	,	with	or	without	nicotine	replacement	,	may	alter	the	pharmacokinetics	of	certain	concomitant	medications	,	such	as	tricyclic_antidepressants	and	theophylline	.	.
+DDI-MedLine.d85.s7	Misonidazole	reduced	the	antitumour	activity	of	oral	CCNU	by	dose	modifying	factors	(	DMF	)	of	0.58	-	0.71	.	.
+DDI-MedLine.d13.s8	However	,	the	absolute	number	of	alcohol	-	related	deaths	is	far	greater	than	the	number	of	deaths	in	amphetamine	or	heroin	users	.	.
+DDI-DrugBank.d132.s1	This	may	occur	because	diflunisal	competitively	displaces	coumarins	from	protein	binding	sites	.	.
+DDI-DrugBank.d277.s27	Interaction	of	GABITRIL	with	Highly	Protein	Bound	Drugs	,	In	vitro	data	showed	that	tiagabine	is	96	%	bound	to	human	plasma	protein	and	therefore	has	the	potential	to	interact	with	other	highly	protein	bound	compounds	.	.
+DDI-DrugBank.d76.s7	Terfenadine	,	astemizole	and	cisapride	are	all	metabolized	by	the	cytochrome	P450IIIA4	isozyme	,	and	it	has	been	demonstrated	that	ketoconazole	,	a	potent	inhibitor	of	IIIA4	,	blocks	the	metabolism	of	these	drugs	,	resulting	in	increased	plasma	concentrations	of	parent	drug	.	.
+DDI-DrugBank.d22.s3	Therefore	you	may	need	to	take	a	vitamin_B12	supplement	while	taking	aminosalicylic_acid	.	.
+DDI-DrugBank.d210.s18	Thus	,	when	VIOXX	and	lithium	are	administered	concurrently	,	subjects	should	be	observed	carefully	for	signs	of	lithium	toxicity	.	.
+DDI-DrugBank.d467.s2	On	the	basis	of	the	metabolism	of	bexarotene	by	cytochrome	P450	3A4	,	ketoconazole	,	itraconazole	,	erythromycin	,	gemfibrozil	,	grapefruit	juice	,	and	other	inhibitors	of	cytochrome	P450	3A4	would	be	expected	to	lead	to	an	increase	in	plasma	bexarotene	concentrations	.	.
+DDI-MedLine.d83.s11	In	addition	,	olanzapine	is	not	associated	with	a	risk	of	agranulocytosis	as	seen	with	clozapine	or	clinically	significant	hyperprolactinaemia	as	seen	with	risperidone	or	prolongation	of	the	QT	interval	.	.
+DDI-DrugBank.d154.s2	Because	Nalfon	has	not	been	shown	to	produce	any	additional	effect	beyond	that	obtained	with	aspirin	alone	and	because	aspirin	increases	the	rate	of	excretion	of	Nalfon	,	the	concomitant	use	of	Nalfon	and	salicylates	is	not	recommended	.	.
+DDI-DrugBank.d386.s10	While	all	the	selective_serotonin_reuptake_inhibitors	(	SSRIs	)	,	e.g.	,	fluoxetine	,	seriraline	,	and	paroxetine	,	inhibit	P450	2D6	,	they	may	vary	in	the	extent	of	inhibition	.	.
+DDI-MedLine.d17.s3	In	seven	experiments	reactions	to	norepinephrine	and	oxytocin	were	PGF2alpha	.	.
+DDI-DrugBank.d172.s15	Because	of	its	lack	of	platelet	effects	,	CELEBREX	is	not	a	substitute	for	aspirin	for	cardiovascular	prophylaxis	.	.
+DDI-MedLine.d21.s10	Fluoxetine	and	moclobemide	increased	blood	glucose	at	different	times	after	the	glucose	overload	.	.
+DDI-DrugBank.d485.s2	Acetaminophen	,	May	increase	plasma	concentration	of	synthetic_estrogens	,	possibly	by	inhibiting	conjugation	.	.
+DDI-MedLine.d3.s11	Amprenavir	plus	rifampin	was	well	tolerated	.	.
+DDI-DrugBank.d119.s2	Probenecid	___	Prolonged	action	of	etomidate	.
+DDI-DrugBank.d103.s4	Corticosteroids	,	Methylxanthines	and	Diuretics	,	Concomitant	treatment	with	xanthine_derivatives	,	steroids	,	or	diuretics	may	potentiate	a	possible	hypokalemic	effect	of	_	beta2-agonists	.	.
+DDI-DrugBank.d434.s1	Use	in	Conjunction	with	Other	Antiepileptic_Drugs	,	The	addition	of	Felbatol	_	to	antiepileptic_drugs	(	AEDs	)	affects	the	steady	-	state	plasma	concentrations	of	AEDs	.	.
+DDI-DrugBank.d104.s0	Fenfluramine	may	increase	slightly	the	effect	of	antihypertensive_drugs	,	e.g.	,	guanethidine	,	methyldopa	,	reserpine	.	.
+DDI-DrugBank.d303.s1	No	information	is	available	about	the	interaction	of	cephalexin	and	metformin	following	multiple	doses	of	either	drug	.	.
+DDI-DrugBank.d132.s10	This	effect	is	small	with	occasional	doses	of	antacids	,	but	may	be	clinically	significant	when	antacids	are	used	on	a	continuous	schedule	.	.
+DDI-DrugBank.d368.s0	DIAMOX	modifies	phenytoin	metabolism	with	increased	serum	levels	of	phenytoin	.	.
+DDI-MedLine.d8.s6	When	combined	with	ofloxacin	,	KRM-1648	exhibited	strong	synergistic	activity	while	only	additive	effects	were	observed	with	the	combination	of	rifampicin	(	or	rifabutin	)	and	ofloxacin	.	.
+DDI-DrugBank.d236.s18	Haloperidol	,	Haloperidol	blocks	dopamine	and	norepinephrine	reuptake	,	thus	inhibiting	the	central	stimulant	effects	of	amphetamines	.	.
+DDI-DrugBank.d143.s27	Antiarrhythmics	,	Other	antiarrhythmic	drugs	,	such	as	quinidine	,	procainamide	,	disopyramide	,	and	phenytoin	,	have	been	used	concurrently	with	amiodarone	.	.
+DDI-DrugBank.d139.s8	Warfarin	-	Vitamin_K	can	antagonize	the	effect	of	warfarin	.
+DDI-DrugBank.d364.s15	Although	not	studied	with	alosetron	,	inhibition	of	N	-	acetyltransferase	may	have	clinically	relevant	consequences	for	drugs	such	as	isoniazid	,	procainamide	,	and	hydralazine	.	.
+DDI-MedLine.d16.s0	Interaction	of	ketamine	and	halothane	in	rats	.	_	.
+DDI-DrugBank.d42.s7	Dolasetron_mesylate	did	not	inhibit	the	antitumor	activity	of	four	chemotherapeutic_agents	(	cisplatin	,	5-fluorouracil	,	doxorubicin	,	cyclophosphamide	)	in	four	murine	models	.	.
+DDI-DrugBank.d475.s0	No	interactions	have	been	observed	between	nizatidine	and	theophylline	,	chlordiazepoxide	,	lorazepam	,	lidocaine	,	phenytoin	,	and	warfarin	.	.
+DDI-DrugBank.d78.s14	In	addition	,	other	quinolones	have	been	reported	to	decrease	the	CYP3A4-mediated	metabolism	of	cyclosporine	.	.
+DDI-DrugBank.d165.s23	Therefore	,	prothrombin	time	should	be	carefully	monitored	in	patients	receiving	Itraconazole	and	coumarin	-	like	drugs	simultaneously	.	.
+DDI-DrugBank.d340.s35	Ethinyl_Estradiol	and	Norethindrone	,	Coadministration	of	VIRACEPT	with	OVCON-35	resulted	in	a	47	%	decrease	in	ethinyl_estradiol	and	an	18	%	decrease	in	norethindrone	plasma	concentrations	.	.
+DDI-DrugBank.d395.s20	Theophylline	,	Enoxacin	is	a	potent	inhibitor	of	the	cytochrome	P-450	isozymes	responsible	for	the	metabolism	of	methylxanthines	.	.
+DDI-MedLine.d58.s8	Thus	,	the	selective	regulation	of	voltage	-	dependent	Ca(2	+	)	subtypes	by	ginsenosides	in	bovine	chromaffin	cell	could	be	the	cellular	basis	of	antistress	effects	induced	by	ginseng	.	.
+DDI-DrugBank.d550.s2	H2-Receptor_Antagonists	,	Co	-	administration	of	a	single	dose	of	intravenously	administered	famotidine	(	20	mg	)	reduced	the	oral	absorption	of	a	single	400	mg	dose	of	cefditoren_pivoxil	administered	following	a	meal	,	as	evidenced	by	a	27	%	decrease	in	mean	Cmax	and	a	22	%	decrease	in	mean	AUC	.	.
+DDI-DrugBank.d8.s4	Cimetidine	reduces	the	clearance	of	ALFENTA	.	.
+DDI-MedLine.d42.s9	however	,	patients	with	moderate	to	severe	cardiovascular	disease	or	those	taking	nitrate	therapy	are	at	increased	risk	for	potentially	serious	cardiovascular	adverse	effects	with	sildenafil	therapy	.	.
+DDI-DrugBank.d32.s0	Theophylline	,	Twelve	healthy	male	volunteers	were	administered	one	200-mg	ceftibuten	capsule	twice	daily	for	6	days	.	.
+DDI-MedLine.d84.s5	Synergism	was	observed	when	GL	was	combined	with	cefazolin	against	Bacillus	subtilis	and	Klebsiella	oxytoca	.	.
+DDI-MedLine.d102.s3	injection	of	vehicle	(	corn	oil	,	0.1	mL	/	day	)	,	estradiol	(	10	microg	/	kg	/	day	or	4	mg	/	kg	/	day	)	and/or	progesterone	(	20	mg	/	kg	/	day	)	,	for	eight	days	.	.
+DDI-DrugBank.d414.s6	In	some	patients	,	the	administration	of	a	non-_steroidal_antiinflammatory_agent	can	reduce	the	diuretic	,	natriuretic	,	and	antihypertensive	effects	of	loop	,	potassium-_sparing	and	thiazide_diuretics	.	.
+DDI-DrugBank.d237.s18	astemizole	,	bepridil	,	sparfloxacin	,	and	terodiline	.	.
+DDI-MedLine.d21.s6	Imipramine	(	5	mg	/	kg	)	,	moclobemide	(	30	mg	/	kg	)	,	clonazepam	(	0.25	mg	/	kg	)	,	fluoxetine	(	20	mg	/	kg	)	sertraline	(	30	mg	/	kg	)	or	vehicle	was	administered	.	.
+DDI-DrugBank.d43.s7	A	21	(	17)%	decrease	in	the	steady	-	state	AUC	of	ganciclovir	was	observed	when	VIDEX	was	administered	2	hours	prior	to	ganciclovir	,	but	not	when	the	two	drugs	were	administered	simultaneously	(	n	=	12	)	.	.
+DDI-DrugBank.d210.s23	Oral	Contraceptives	Rofecoxib	did	not	have	any	clinically	important	effect	on	the	pharmacokinetics	of	ethinyl_estradiol	and	norethindrone	.	.
+DDI-MedLine.d133.s1	BACKGROUND	,	The	effects	of	combined	administration	of	bombesin	and	verapamil_hydrochloride	(	verapamil	)	,	a	calcium_channel_blocker	,	on	the	incidence	of	peritoneal	metastasis	of	intestinal	adenocarcinomas	induced	by	azoxymethane	(	AOM	)	and	the	labeling	index	of	intestinal	cancers	were	investigated	in	male	Wistar	rats	.	.
+DDI-DrugBank.d88.s0	Antacid	,	The	effect	of	an	aluminum_hydroxide-	and	magnesium_hydroxide	-	containing	antacid	(	Maalox	)	_	on	the	pharmacokinetics	of	capecitabine	was	investigated	in	12	cancer	patients	.	.
+DDI-DrugBank.d107.s17	It	is	recommended	that	serum	lithium	levels	be	monitored	frequently	if	enalapril	is	administered	concomitantly	with	lithium	.	.
+DDI-DrugBank.d194.s0	Caution	should	be	exercised	when	administering	ETOPOPHOS	with	drugs	that	are	known	to	inhibit	phosphatase	activities	(	e.g.	,	levamisole_hydrochloride	)	.	.
+DDI-DrugBank.d81.s6	propranolol	to	healthy	volunteers	under	steady	-	state	conditions	had	no	relevant	effect	on	either	drug	s	bioavailability	,	AUC	and	Cmax	,	differences	were	_	20	%	between	isradipine	given	singly	and	in	combination	with	propranolol	,	and	between	propranolol	given	singly	and	in	combination	with	isradipine	.	.
+DDI-DrugBank.d415.s7	Caution	should	be	used	if	ibuprofen	is	administered	concomitantly	with	methotrexate	.	.
+DDI-DrugBank.d277.s16	Theophylline	,	A	single	10	mg	dose	of	tiagabine	did	not	affect	the	pharmacokinetics	of	theophylline	at	steady	state	.	.
+DDI-DrugBank.d235.s2	Increased	toxicity	(	CNS	depression	)	,	CNS_depressants	,	MAO_inhibitors	,	tricyclic_antidepressants	,	phenothiazines	.	.
+DDI-DrugBank.d45.s7	Patients	with	Crohn	s	disease	who	received	immunosuppressants	tended	to	experience	fewer	infusion	reactions	compared	to	patients	on	no	immunosuppressants	.	.
+DDI-MedLine.d63.s5	On	the	other	hand	,	intrathecal	naloxone	(	12	-	120	micrograms	)	had	only	a	very	weak	effect	on	the	tail	-	flick	inhibition	induced	by	intraventricular	morphine	(	40	micrograms	)	.	.
+DDI-DrugBank.d119.s6	Aminophylline	____	Etomidate	antagonism	.
+DDI-DrugBank.d288.s12	In	order	to	avoid	the	occurrence	of	severe	hypersensitivity	reactions	,	all	patients	treated	with	TAXOL	should	be	premedicated	with	corticosteroids	(	such	as	dexamethasone	)	,	diphen	-	hydramine	and	H2_antagonists	(	such	as	cimetidine	or	ranitidine	)	.	.
+DDI-DrugBank.d81.s9	Rifampicin	,	In	a	study	in	healthy	volunteers	,	a	six	-	day	course	of	rifampicin	at	600	mg	/	day	followed	by	a	single	5	mg	dose	of	isradipine	resulted	in	a	reduction	in	isradipine	levels	to	below	detectable	limits	.	.
+DDI-MedLine.d21.s13	Again	,	sertraline	neutralized	the	increase	in	glycemia	after	glucose	overload	both	in	diabetic	and	non	-	diabetic	rats	.	.
+DDI-DrugBank.d422.s4	When	digoxin	and	BREVIBLOC	were	concomitantly	administered	intravenously	to	normal	volunteers	,	there	was	a	10	-	20	%	increase	in	digoxin	blood	levels	at	some	time	points	.	.
+DDI-DrugBank.d62.s0	Dexbrompheniramine	can	interact	with	alcohol	or	other	CNS_depressants	(	may	potentiate	the	CNS	depressant	effects	of	either	these	medications	or	antihistamines	)	,	anticholinergics	or	other	medications	with	anticholinergic	activity	(	anticholinergic	effects	may	be	potentiated	when	these	medications	are	used	concurrently	with	antihistamines	)	,	and	monoamine_oxidase_(MAO)_inhibitors	(	concurrent	use	with	antihistamines	may	prolong	and	intensify	the	anticholinergic	and	CNS	depressant	effects	of	antihistamines	)	.	.
+DDI-DrugBank.d441.s2	Adrenergic_Agents	,	Some	individuals	receiving	ZYVOX	may	experience	a	reversible	enhancement	of	the	pressor	response	to	indirect	-	acting	sympathomimetic_agents	,	vasopressor	or	dopaminergic_agents	.	.
+DDI-DrugBank.d196.s34	Because	of	the	potential	for	adverse	reactions	from	the	drugs	in	nursing	infants	,	a	decision	must	be	made	whether	to	discontinue	nursing	or	discontinue	PEGASYS	and	COPEGUS	treatment	.	.
+DDI-DrugBank.d81.s7	Cimetidine	,	In	a	study	in	healthy	volunteers	,	a	one	-	week	course	of	cimetidine	at	400	mg	b.i.d	.	with	a	single	5	mg	dose	of	isradipine	on	the	sixth	day	showed	an	increase	in	isradipine	mean	peak	plasma	concentrations	(	36	%	)	and	significant	increase	in	area	under	the	curve	(	50	%	)	.	.
+DDI-DrugBank.d299.s5	Propanolol	,	The	pharmacokinetics	of	almotriptan	were	not	affected	by	coadministration	of	propranolol	.	.
+DDI-DrugBank.d532.s2	These	medications	have	included	heparin	,	warfarin	,	beta	-	adrenergic_receptor_blockers	,	calcium_channel_antagonists	,	angiotensin_converting_enzyme_inhibitors	,	intravenous	and	oral	nitrates	,	ticlopidine	,	and	aspirin	.	.
+DDI-DrugBank.d331.s3	-	Lithium	,	Lithium	should	generally	not	be	given	with	diuretics	(	such	as	bumetanide	)	because	they	reduce	its	renal	clearance	and	add	a	high	risk	of	lithium	toxicity	.	.
+DDI-MedLine.d128.s10	On	the	other	hand	,	the	enhanced	secretion	of	colonic	fluid	by	dmPGE2	,	given	intraluminally	,	was	only	half	of	that	in	control	rats	,	whereas	the	colonic	transit	-	enhancing	effect	of	dmPGE2	in	cecectomized	rats	was	more	pronounced	than	in	control	rats	at	15	but	not	at	30	min	after	its	administration	.	.
+DDI-DrugBank.d427.s14	Therefore	,	cyclosporine	serum	levels	should	be	monitored	and	appropriate	cyclosporine	dosage	adjustments	made	when	these	drugs	are	used	concomitantly	.	.
+DDI-DrugBank.d521.s5	-	a	beta	-	blocker	such	as	propranolol	(	Inderal	)	,	atenolol	(	Tenormin	)	,	acebutolol	(	Sectral	)	,	metoprolol	(	Lopressor	)	,	and	others	,	.
+DDI-MedLine.d42.s5	RESULTS	,	Sildenafil	has	demonstrated	effectiveness	in	men	with	erectile	dysfunction	associated	with	prostatectomy	,	radiation	therapy	,	diabetes	mellitus	,	certain	neurologic	disorders	,	and	drug	therapy	(	eg	,	selective_serotonin_reuptake_inhibitors	[	SSRIs	]	)	.	.
+DDI-DrugBank.d413.s23	Monitoring	of	cyclosporine	levels	and	possible	adjustment	of	cyclosporine	dosage	should	be	considered	when	these	drugs	are	co	-	administered	.	.
+DDI-DrugBank.d482.s3	Caution	should	be	exercised	when	taking	this	medicine	certain	antibiotics	,	such	as	erythromycin	,	clarithromycin	,	or	azithromycin	.	.
+DDI-DrugBank.d106.s1	Ranitidine	150	mg	twice	daily	did	not	interact	significantly	with	nisoldipine	(	AUC	was	decreased	by	15	-	20	%	)	.	.
+DDI-MedLine.d47.s1	The	in	vitro	anti	-	cryptosporidial	activity	of	buforin_II	alone	and	in	combination	with	azithromycin	and	minocycline	was	investigated	.	.
+DDI-DrugBank.d328.s8	ACE	-	inhibitors	,	Reports	suggest	that	NSAIDs	may	diminish	the	antihypertensive	effect	of	ACE	-	inhibitors	.	.
+DDI-DrugBank.d216.s2	Lorazepam	,	Coadministration	of	single	doses	of	eszopiclone	3	mg	and	lorazepam	2	mg	did	not	have	clinically	relevant	effects	on	the	pharmacodynamics	or	pharmacokinetics	of	either	drug	.	.
+DDI-MedLine.d129.s0	Green_tea_polyphenols	as	potent	enhancers	of	glucocorticoid	-	induced	mouse	mammary	tumor	virus	gene	expression	.	_	.
+DDI-DrugBank.d437.s13	Laboratory	Tests	,	The	combination	of	Amprenavir	and	low	-	dose	ritonavir	has	been	associated	with	elevations	of	cholesterol	and	triglycerides	,	SGOT	(	AST	)	,	and	SGPT	(	ALT	)	in	some	patients	.	.
+DDI-DrugBank.d27.s1	In	vitro	studies	show	significant	inhibition	of	the	formation	of	oxidized	irbesartan	metabolites	with	the	known	cytochrome	CYP	2C9	substrates	/	inhibitors	sulphenazole	,	tolbutamide	and	nifedipine	.	.
+DDI-DrugBank.d61.s0	In	clinical	studies	,	Tilade	has	been	co	-	administered	with	other	anti	-	asthma	medications	,	including	inhaled	and	oral	bronchodilators	,	and	inhaled	corticosteroids	,	with	no	evidence	of	increased	frequency	of	adverse	events	or	laboratory	abnormalities	.	.
+DDI-MedLine.d49.s6	Combinations	of	clindamycin	and	gentamicin	were	indifferent	for	29	strains	and	synergistic	for	33	strains	.	.
+DDI-DrugBank.d172.s6	Clinical	studies	with	celecoxib	have	identified	potentially	significant	interactions	with	fluconazole	and	lithium	.	.
+DDI-DrugBank.d316.s12	In	controlled	clinical	trials	,	however	,	beta_blockers	including	metoprolol	were	concurrently	administered	with	felodipine	and	were	well	tolerated	.	.
+DDI-DrugBank.d169.s1	Co	-	administration	of	multiple	doses	of	10	mg	of	lenalidomide	had	no	effect	on	the	single	dose	pharmacokinetics	of	R-	and	S-_warfarin	.	.
+DDI-DrugBank.d567.s12	Amiodarone	or	Verapamil	,	The	risk	of	myopathy	/	rhabdomyolysis	is	increased	when	either	amiodarone	or	verapamil	is	used	concomitantly	with	a	closely	related	member	of	the	HMG	-	CoA_reductase_inhibitor_class	(	see	WARNINGS	,	Myopathy	/	Rhabdomyolysis	)	.	.
+DDI-MedLine.d79.s1	Concurrent	administration	of	indinavir	and	didanosine	significantly	reduces	the	level	of	exposure	to	indinavir	,	but	it	is	unclear	how	soon	after	didanosine	administration	indinavir	may	be	given	safely	.	.
+DDI-DrugBank.d462.s1	Vecuronium	,	When	used	in	the	perioperative	period	,	piperacillin	has	been	implicated	in	the	prolongation	of	the	neuromuscular	blockade	of	vecuronium	.	.
+DDI-DrugBank.d307.s4	Although	inhibition	of	CYP	3A4/5	by	OXC	and	MHD	did	occur	at	high	concentrations	,	it	is	not	likely	to	be	of	clinical	significance	.	.
+DDI-DrugBank.d59.s0	The	effects	of	ERGOMAR	may	be	potentiated	by	triacetyloleandomycin	which	inhibits	the	metabolism	of	ergotamine	.	.
+DDI-DrugBank.d373.s0	Beta	-	adrenergic_Blocking_Agents	,	Experience	in	over	1400	patients	in	a	non	-	comparative	clinical	trial	has	shown	that	concomitant	administration	of	nifedipine	and	beta	-	blocking_agents	is	usually	well	tolerated	,	but	there	have	been	occasional	literature	reports	suggesting	that	the	combination	may	increase	the	likelihood	of	congestive	heart	failure	,	severe	hypotension	or	exacerbation	of	angina	.	.
+DDI-DrugBank.d124.s1	Several	drug	interaction	studies	have	been	completed	with	both	INVIRASE	and	FORTOVASE	.	.
+DDI-DrugBank.d526.s4	Digitalis_glycosides	enhanced	possibility	of	arrhythmias	or	digitalis	toxicity	associated	with	hypokalemia	.	.
+DDI-DrugBank.d487.s4	Corticosteroids	may	increase	the	clearance	of	chronic	high	dose	aspirin	.	.
+DDI-MedLine.d2.s1	Studies	in	rats	have	shown	that	neomycin	administration	attenuates	certain	types	of	adrenocortical_steroid	dependent	hypertension	,	including	ACTH	hypertension	.	.
+DDI-DrugBank.d179.s1	Sulfapyridine	may	interact	with	any	of	the	following	,	;	Acetaminophen	(	e.g.	,	Tylenol	)	(	with	long	-	term	,	high	-	dose	use	)	or	.
+DDI-MedLine.d132.s0	The	emerging	roles	of	non	-	nucleoside_reverse_transcriptase_inhibitors	in	antiretroviral	therapy	.	.
+DDI-MedLine.d3.s12	Amprenavir	plus	rifabutin	was	poorly	tolerated	,	and	5	of	11	subjects	discontinued	therapy	.	.
+DDI-DrugBank.d415.s12	Lithium	,	Ibuprofen	produced	an	elevation	of	plasma	lithium	levels	and	a	reduction	in	renal	lithium	clearance	in	a	study	of	eleven	normal	volunteers	.	.
+DDI-MedLine.d75.s3	The	percentage	of	neurons	hyperpolarized	by	mu-	,	delta(1)-	,	and	kappa	-	selective_opioids	was	significantly	reduced	when	1	%	but	not	<	.
+DDI-DrugBank.d458.s27	After	the	coadministration	of	200	mg	oral	ketoconazole	twice	daily	and	one	20	mg	dose	of	loratadine	to	11	subjects	,	the	AUC	and	Cmax	of	loratadine	averaged	302	%	(	_	142	S.D.	)	and	251	%	(	_	68	S.D.	)	,	respectively	,	of	those	obtained	after	co	-	treatment	with	placebo	.	.
+DDI-DrugBank.d506.s6	Norpace	does	not	increase	serum	digoxin	levels	.	.
+DDI-DrugBank.d307.s48	Results	with	warfarin	wshow	no	evidence	of	interaction	with	either	single	or	repeated	doses	of	Trileptal	.	.
+DDI-DrugBank.d279.s10	It	would	be	expected	that	laxative	use	during	therapy	with	CAMPTOSAR	would	worsen	the	incidence	or	severity	of	diarrhea	,	but	this	has	not	been	studied	.	.
+DDI-DrugBank.d223.s16	Inhibitors	or	substrates	of	CYP2D6	(	i.e.	,	quinidine	,	selective_serotonin_reuptake_inhibitors	[	SSRIs	]	)	may	increase	the	plasma	concentration	of	doxepin	when	administered	concomitantly	.	.
+DDI-DrugBank.d495.s8	There	is	one	reported	case	of	a	patient	with	acute	delirium	associated	with	the	simultaneous	use	of	fluphenazine	and	oral	clonidine	.	.
+DDI-DrugBank.d36.s0	Caution	is	advised	in	patients	receiving	concomitant	high	-	dose	aspirin	and	carbonic_anhydrase_inhibitors	,	as	anorexia	,	tachypnea	,	lethargy	and	coma	have	been	rarely	reported	due	to	a	possible	drug	interaction	.	.
+DDI-DrugBank.d75.s8	Anagrelide	alone	had	no	effect	on	platelet	aggregation	,	but	did	slightly	enhance	the	inhibition	of	platelet	aggregation	by	aspirin	.	.
+DDI-DrugBank.d176.s0	Diuretics	,	Patients	on	diuretics	,	especially	those	with	intravascular	volume	depletion	,	may	occasionally	experience	an	excessive	reduction	of	blood	pressure	after	initiation	of	therapy	with	fosinopril_sodium	.	.
+DDI-DrugBank.d232.s0	After	multiple	dosing	,	interferon_beta-1a	(	AVONEX	_	30	mcg	IM	once	weekly	)	reduced	TYSABRI	_	clearance	by	approximately	30	%	.	.
+DDI-DrugBank.d55.s0	Isoproterenol_hydrochloride	injection	and	epinephrine	should	not	be	administered	simultaneously	because	both	drugs	are	direct	cardiac	stimulants	and	their	combined	effects	may	induce	serious	arrhythmias	.	.
+DDI-DrugBank.d198.s15	Consequently	,	it	is	recommended	not	to	exceed	a	single	2.5	mg	Vardenafil	dose	in	a	72-hour	period	when	used	in	combination	with	ritonavir	.	.
+DDI-MedLine.d107.s1	Little	has	been	studied	of	the	adverse	effects	of	the	exposure	of	the	liver	to	the	interaction	of	ethanol	with	its	congeners	and	acetaldehyde	,	coexisting	in	the	contents	of	alcoholic	beverages	.	.
+DDI-DrugBank.d397.s5	Concurrent	use	of	erythromycin	and	ergotamine	or	dihydroergotamine	has	been	associated	in	some	patients	with	acute	ergot	toxicity	characterized	by	severe	peripheral	vasospasm	and	dysesthesia	.	.
+DDI-MedLine.d127.s6	Concomitantly	given	thiazide_diuretics	did	not	interfere	with	the	absorption	of	a	tablet	of	digoxin	.	.
+DDI-DrugBank.d34.s0	Although	acid	-	base	and	electrolyte	disturbances	were	not	reported	in	the	clinical	trials	with	dorzolamide	,	these	disturbances	have	been	reported	with	oral	carbonic_anhydrase_inhibitors	and	have	,	in	some	instances	,	resulted	in	drug	interactions	(	e.g.	,	toxicity	associated	with	high	-	dose	salicylate	therapy	)	.	.
+DDI-DrugBank.d382.s22	Midazolam	,	Aprepitant	increased	the	AUC	of	midazolam	,	a	sensitive	CYP3A4	substrate	,	by	2.3-fold	on	Day	1	and	3.3-fold	on	Day	5	,	when	a	single	oral	dose	of	midazolam	2	mg	was	coadministered	on	Day	1	and	Day	5	of	a	regimen	of	Aprepitant	125	mg	on	Day	1	and	80	mg	/	day	on	Days	2	through	5	.	.
+DDI-DrugBank.d404.s8	Ketoconazole	,	Ketoconazole	may	inhibit	both	synthetic	and	catabolic	enzymes	of	vitamin_D.	.
+DDI-DrugBank.d314.s19	Drugs	which	inhibit	CYP	3A4	(	e.g.	,	ketoconazole	,	macrolide_antibiotics	such	as	erythromycin	)	have	the	potential	to	result	in	increased	plasma	concentrations	of	corticosteroids	.	.
+DDI-DrugBank.d269.s5	When	concomitant	treatment	with	agents_with_b	-	blocking_properties	and	clonidine	is	to	be	terminated	,	the	b	-	blocking_agent	should	be	discontinued	first	.	.
+DDI-DrugBank.d382.s4	Aprepitant	has	been	shown	to	induce	the	metabolism	of	S(-)_warfarin	and	tolbutamide	,	which	are	metabolized	through	CYP2C9	.	.
+DDI-DrugBank.d450.s7	Rifampin	may	decrease	serum	digoxin	concentration	,	especially	in	patients	with	renal	dysfunction	,	by	increasing	the	non	-	renal	clearance	of	digoxin	.	.
+DDI-DrugBank.d165.s3	Coadministration	of	terfenadine	with	Itraconazole	has	led	to	elevated	plasma	concentrations	of	terfenadine	,	resulting	in	rare	instances	of	life-	threatening	cardiac	dysrhythmias	and	one	death	.	.
+DDI-MedLine.d128.s15	N	-	methyllevallorphan	(	5	mg	/	kg	,	s.c	.	)	completely	antagonized	the	inhibitory	effect	of	loperamide	and	partly	antagonized	the	effect	of	morphine	.	.
+DDI-DrugBank.d269.s10	Due	to	wide	interindividual	variability	in	the	dose	adjustment	required	,	it	is	recommended	that	cyclosporine	concentrations	be	monitored	closely	after	initiation	of	carvedilol	therapy	and	that	the	dose	of	cyclosporine	be	adjusted	as	appropriate	.	.
+DDI-DrugBank.d412.s9	Labetalol_HCl	blunts	the	reflex	tachycardia	produced	by	nitroglycerin	without	preventing	its	hypotensive	effect	.	.
+DDI-DrugBank.d64.s6	Drugs	that	have	been	reported	to	diminish	oral	anticoagulant	response	,	ie	,	decreased	prothrom	-	bin	time	response	,	in	man	significantly	include	,	adrenocortical_steroids	,	.
+DDI-DrugBank.d85.s0	The	use	of	NSAIDs	in	patients	who	are	receiving	ACE_inhibitors	may	potentiate	renal	disease	states	.	.
+DDI-DrugBank.d453.s0	Cytosine_arabinoside	,	a	cytostatic_agent	,	has	been	reported	to	inactivate	the	antifungal	activity	of	flucytosine	by	competitive	inhibition	.	.
+DDI-DrugBank.d77.s15	While	all	the	selective_serotonin_reuptake_inhibitors	(	SSRIs	)	,	e.	g.	,	fluoxetine	,	sertraline	,	and	paroxetine	,	inhibit	P450	2D6	,	they	may	vary	in	the	extent	of	inhibition	.	.
+DDI-DrugBank.d411.s2	Levothyroxine_Sodium	Absorption	,	The	following	agents	may	bind	and	decrease	absorption	of	levothyroxine_sodium	from	the	gastrointestinal	tract	,	aluminum_hydoxide	,	cholestyramine	resin	,	colestipol_hydrochloride	,	ferrous_sulfate	,	sodium_polystyrene_sulfonate	,	soybean	flour	(	e.g.	,	infant	formula	)	,	sucralfate	.	.
+DDI-DrugBank.d299.s11	Although	the	interaction	between	almotriptan	and	other	potent	CYP3A4	inhibitors	(	e.g.	,	itraconazole	,	ritonavir	,	and	erythromycin	)	has	not	been	studied	,	increased	exposures	to	almotriptan	may	be	expected	when	almotriptan	is	used	concomitantly	with	these	medications	.	.
+DDI-MedLine.d125.s7	However	,	administration	of	4-methylpyrazole	(	90	mg	kg(-1	)	body	weight	)	to	rats	2	hours	prior	to	1,3-difluoroacetone	(	100	mg	kg(-1	)	body	weight	)	was	ineffective	in	preventing	(	-)-erythro	-	fluorocitrate	synthesis	and	did	not	diminish	fluoride	or	citrate	accumulation	in	vivo	.	.
+DDI-MedLine.d86.s2	Several	clinically	important	interactions	have	previously	been	reported	for	other	immunosuppressive_drugs	that	are	metabolized	by	the	same	enzyme	and	for	calcium_antagonists	.	.
+DDI-DrugBank.d82.s2	Therefore	,	diflunisal	and	INDOCIN	should	not	be	used	concomitantly	.	.
+DDI-DrugBank.d3.s9	Probenecid	,	Concomitant	administration	of	TORADOL	ORAL	and	probenecid	resulted	in	decreased	clearance	of	ketorolac	and	significant	increases	in	ketorolac	plasma	levels	(	total	AUC	increased	approximately	threefold	from	5.4	to	17.8	m	g	/	h	/	mL	)	and	terminal	half	-	life	increased	approximately	twofold	from	6.6	to	15.1	hours	.	.
+DDI-DrugBank.d503.s0	Chlorprothixene	may	increase	the	plasma	-	level	of	concomitantly	given	lithium	.	.
+DDI-DrugBank.d196.s0	Treatment	with	PEGASYS	once	weekly	for	4	weeks	in	healthy	subjects	was	associated	with	an	inhibition	of	P450	1A2	and	a	25	%	increase	in	theophylline	AUC	.	.
+DDI-DrugBank.d515.s0	The	physician	should	be	alert	for	possible	combined	drug	actions	,	desirable	or	undesirable	,	involving	ifosfamide	even	though	ifosfamide	has	been	used	successfully	concurrently	with	other	drugs	,	including	other	cytotoxic	drugs	.	.
+DDI-DrugBank.d186.s3	As	with	other	antipsychotic_agents	,	it	should	be	noted	that	HALDOL	may	be	capable	of	potentiating	CNS_depressants	such	as	anesthetics	,	opiates	,	and	alcohol	.	.
+DDI-DrugBank.d258.s1	Although	increased	plasma	concentrations	(	AUC	0	-	24	hrs	)	of	loratadine	and/or	descarboethoxyloratadine	were	observed	following	coadministration	of	loratadine	with	each	of	these	drugs	in	normal	volunteers	(	n	=	24	in	each	study	)	,	there	were	no	clinically	relevant	changes	in	the	safety	profile	of	loratadine	,	as	assessed	by	electrocardiographic	parameters	,	clinical	laboratory	tests	,	vital	signs	,	and	adverse	events	.	.
+DDI-DrugBank.d480.s19	In	a	study	of	schizophrenic	patients	who	received	clozapine	under	steady	state	conditions	,	fluvoxamine	or	paroxetine	was	added	in	16	and	14	patients	,	respectively	.	.
+DDI-DrugBank.d548.s9	Therefore	,	co	-	administration	of	Duloxetine	with	other	drugs	that	are	extensively	metabolized	by	this	isozyme	and	which	have	a	narrow	therapeutic	index	,	including	certain	antidepressants	(	tricyclic_antidepressants	[	TCAs	]	,	such	as	nortriptyline	,	amitriptyline	,	and	imipramine	)	,	phenothiazines	and	Type_1C_antiarrhythmics	(	e.g.	,	propafenone	,	flecainide	)	,	should	be	approached	with	caution	.	.
+DDI-DrugBank.d512.s7	Dose	adjustment	of	Sensipar	may	be	required	and	PTH	and	serum	calcium	concentrations	should	be	closely	monitored	if	a	patient	initiates	or	discontinues	therapy	with	a	strong	CYP3A4	inhibitor	(	e.g.	,	ketoconazole	,	erythromycin	,	itraconazole	,	.
+DDI-DrugBank.d509.s8	Inhibitors	of	CYP3A4	(	eg	,	ketoconazole	)	or	CYP2D6	(	eg	,	quinidine	,	fluoxetine	,	or	paroxetine	)	can	inhibit	aripiprazole	elimination	and	cause	increased	blood	levels	.	.
+DDI-DrugBank.d196.s33	The	effect	of	orally	ingested	peginterferon	or	ribavirin	from	breast	milk	on	the	nursing	infant	has	not	been	evaluated	.	.
+DDI-DrugBank.d395.s25	Nevertheless	,	the	prothrombin	time	or	other	suitable	coagulation	test	should	be	monitored	when	warfarin	or	its	derivatives	and	enoxacin	are	given	concomitantly	.	.
+DDI-MedLine.d120.s1	Among	the	polyene_antibiotics	,	many	,	like	filipin	,	can	not	be	used	clinically	because	they	are	toxic	,	.
+DDI-DrugBank.d97.s73	Immunosuppressants	,	cyclosporine	,	tacrolimus	,	sirolimus	.
+DDI-DrugBank.d41.s14	Rifampin	,	Following	concomitant	administration	of	a	single	dose	of	ARAVA	to	subjects	receiving	multiple	doses	of	rifampin	,	M1	peak	levels	were	increased	(	~40	%	)	over	those	seen	when	ARAVA	was	given	alone	.	.
+DDI-DrugBank.d223.s14	It	is	desirable	to	monitor	TCA	plasma	levels	whenever	a	TCA	is	going	to	be	co	-	administered	with	another	drug	known	to	be	an	inhibitor	of	P450	2D6	.	.
+DDI-DrugBank.d237.s17	certain	antipsychotic_medications	(	such	as	sertindole	)	,	.
+DDI-DrugBank.d236.s21	Methenamine	therapy	,	Urinary	excretion	of	amphetamines	is	increased	,	and	efficacy	is	reduced	,	by	acidifying_agents	used	in	methenamine	therapy	.	.
+DDI-DrugBank.d158.s11	Antihypertensives	,	Amphetamines	may	antagonize	the	hypotensive	effects	of	antihypertensives	.	.
+DDI-DrugBank.d210.s28	Adequate	monitoring	of	theophylline	plasma	concentrations	should	be	considered	when	therapy	with	VIOXX	is	initiated	or	changed	in	patients	receiving	theophylline	.	.
+DDI-DrugBank.d456.s6	Other	CYP3A4	inducers	include	,	but	are	not	limited	to	,	rifabutin	,	rifapentine	,	phenytoin	,	carbamazepine	,	phenobarbital	and	St.	Johns	Wort	.	.
+DDI-DrugBank.d103.s2	Concomitant	administration	of	other	sympathomimetic_agents	may	potentiate	the	undesirable	effects	of	FORADIL	.	.
+DDI-DrugBank.d480.s15	Phenytoin	,	nicotine	,	and	rifampin	may	decrease	Clozapine	plasma	levels	,	resulting	in	a	decrease	in	effectiveness	of	a	previously	effective	Clozapine	dose	.	.
+DDI-MedLine.d135.s3	In	the	present	study	,	the	atypical_antipsychotic	clozapine	was	tested	in	combination	with	an	active	dose	of	PCP	in	two	-	lever	drug	discrimination	and	mixed	signalled	-	unsignalled	differential	-	reinforcement	-	of	-	low	-	rates	(	DRL	)	procedures	.	.
+DDI-DrugBank.d179.s6	-	Carbamazepine	(	e.g.	,	Tegretol	)	or	.
+DDI-DrugBank.d223.s12	Concomitant	use	of	tricyclic_antidepressants	with	drugs	that	can	inhibit	cytochrome	P450	2D6	may	require	lower	doses	than	usually	prescribed	for	either	the	tricyclic_antidepressant	or	the	other	drug	.	.
+DDI-DrugBank.d521.s8	-	a	phenothiazine	such	as	chlorpromazine	(	Thorazine	)	,	fluphenazine	(	Prolixin	,	Permitil	)	,	prochlorperazine	(	Compazine	)	,	promethazine	(	Phenergan	)	,	and	others	,	.
+DDI-DrugBank.d64.s90	Drugs	that	reduce	the	number	of	blood	platelets	by	causing	bone	marrow	depression	(	such	as	antineoplastic_agents	)	or	drugs	which	inhibit	platelet	function	(	eg	,	aspirin	and	other	non	-	steroidal_anti	-	inflammatory_drugs	,	dipyridamole	,	hydrochloroquine	,	clofibrate	,	dextran	)	may	increase	the	bleeding	tendency	produced	by	anticoagulants	without	altering	prothrombin	time	determinations	.	.
+DDI-DrugBank.d507.s1	The	administration	of	guanfacine	concomitantly	with	known	microsomal	enzyme	inducer	(	phenobarbital	or	phenytoin	)	to	two	patients	with	renal	impairment	reportedly	resulted	in	significant	reductions	in	elimination	half	-	life	and	plasma	concentration	.	.
+DDI-DrugBank.d196.s36	PEGASYS	contains	benzyl_alcohol	.	.
+DDI-DrugBank.d123.s12	Omeprazole	,	The	rate	and	extent	of	absorption	of	ciprofloxacin	was	bioequivalent	when	Proquin_XR	was	given	alone	or	when	Proquin_XR	was	given	2	hours	after	omeprazole	at	the	dose	that	maximally	suppresses	gastric	acid	secretion	.	.
+DDI-DrugBank.d529.s6	Concurrent	use	of	flurbiprofen	and	aspirin	is	therefore	not	recommended	.	.
+DDI-DrugBank.d483.s1	If	CEFOTAN	and	an	aminoglycoside	are	used	concomitantly	,	renal	function	should	be	carefully	monitored	,	because	nephrotoxicity	may	be	potentiated	.	.
+DDI-DrugBank.d485.s17	Benzodiazepines	,	Combination	hormonal_contraceptives	may	decrease	the	clearance	of	some	benzodiazepines	(	alprazolam	,	chlordiazepoxide	,	diazepam	)	and	increase	the	clearance	of	others	(	lorazepam	,	oxazepam	,	temazepam	)	.	.
+DDI-MedLine.d90.s3	Atracurium	was	again	given	by	infusion	to	maintain	40	%	twitch	for	a	second	hour	,	then	2	mg	gentamycin	/	kg	bwt	were	given	i.v	.	.
+DDI-MedLine.d16.s4	The	reduction	in	MAC	was	correlated	with	brain	levels	of	ketamine	or	metabolite	I	,	suggesting	a	ketamine	,	metabolite	I	potency	ration	of	3,1	.	.
+DDI-DrugBank.d382.s20	therefore	,	the	efficacy	of	oral	contraceptives	during	administration	of	Aprepitant	may	be	reduced	.	.
+DDI-DrugBank.d565.s15	Patients	currently	receiving	diltiazem	therapy	should	be	carefully	monitored	for	a	change	in	pharmacological	effect	when	initiating	and	discontinuing	therapy	with	cimetidine	.	.
+DDI-DrugBank.d179.s35	-	Ethotoin	(	e.g.	,	Peganone	)	or	.
+DDI-DrugBank.d487.s6	Aspirin	should	be	used	cautiously	in	conjunction	with	cortico	-	steroids	in	patients	suffering	from	hypopro	-	thrombinemia	.	.
+DDI-DrugBank.d569.s1	In	clinical	trials	in	patients	undergoing	PTCA	/	PCI	,	co	-	administration	of	Angiomax	with	heparin	,	warfarin	,	thrombolytics	or	glycoprotein	IIb	/	IIIa	inhibitors	was	associated	with	increased	risks	of	major	bleeding	events	compared	to	patients	not	receiving	these	concomitant	medications	.	.
+DDI-DrugBank.d531.s5	Drugs	which	induce	CYP3A4	activity	(	eg	,	phenobarbital	,	rifampin	,	rifabutin	)	would	be	expected	to	increase	the	clearance	of	efavirenz	resulting	in	lowered	plasma	concentrations	.	.
+DDI-DrugBank.d411.s4	Thyroid	Physiology	,	The	following	agents	may	alter	thyroid	hormone	or	TSH	levels	,	generally	by	effects	on	thyroid	hormone	synthesis	,	secretion	,	distribution	,	metabolism	,	hormone	action	,	or	elimination	,	or	altered	TSH	secretion	,	aminoglutethimide	,	p	-	aminosalicylic_acid	,	amiodarone	,	androgens	and	related	anabolic	hormones	,	complex	anions	(	thiocyanate	,	perchlorate	,	pertechnetate	)	,	antithyroid_drugs	,	b	-	adrenergic_blocking_agents	,	carbamazepine	,	chloral_hydrate	,	diazepam	,	dopamine	and	dopamine_agonists	,	ethionamide	,	glucocorticoids	,	heparin	,	hepatic	enzyme	inducers	,	insulin	,	iodinated	cholestographic	agents	,	iodine	-	containing_compounds	,	levodopa	,	lovastatin	,	lithium	,	6-mercaptopurine	,	metoclopramide	,	mitotane	,	nitroprusside	,	phenobarbital	,	phenytoin	,	resorcinol	,	rifampin	,	somatostatin	analogs	,	sulfonamides	,	sulfonylureas	,	thiazide	diuretics	.	.
+DDI-DrugBank.d417.s0	Netilmicin	should	not	be	administered	concomitantly	with	potent	loop_diuretics	such	as	furosemide	and	ethacrynic_acid	as	the	potential	for	ototoxicity	is	enhanced	by	the	combination	.	.
+DDI-DrugBank.d82.s9	When	INDOCIN	is	given	to	patients	receiving	probenecid	,	the	plasma	levels	of	indomethacin	are	likely	to	be	increased	.	.
+DDI-DrugBank.d5.s14	In	a	study	of	15	male	subjects	(	ages	19	to	35	years	)	who	were	extensive	metabolizers	of	the	CYP2D6	isoenzyme	,	daily	doses	of	bupropion	given	as	150	mg	twice	daily	followed	by	a	single	dose	of	50	mg	desipramine	increased	the	Cmax	,	AUC	,	and	t1/2	of	desipramine	by	an	average	of	approximately	2-	,	5-	and	2-fold	,	respectively	.	.
+DDI-DrugBank.d3.s7	Although	these	results	do	not	indicate	a	significant	interaction	between	TORADOL	and	warfarin	or	heparin	,	the	administration	of	TORADOL	to	patients	taking	anticoagulants	should	be	done	extremely	cautiously	,	and	patients	should	be	closely	monitored	.	.
+DDI-DrugBank.d526.s19	Anabolic_steroids	(	particularly	C-17	alkylated	androgens	such	as	oxymetholone	,	methandrostenolone	,	norethandrolone	,	and	similar	compounds	)	enhanced	tendency	toward	edema	.	.
+DDI-DrugBank.d567.s14	However	,	another	HMG	-	CoA_reductase_inhibitor	has	been	found	to	produce	a	less	than	two	-	second	increase	in	prothrombin	time	in	healthy	volunteers	receiving	low	doses	of	warfarin	.	.
+DDI-DrugBank.d277.s20	Ethanol	or	Triazolam	,	No	significant	differences	were	observed	in	the	pharmacokinetics	of	triazolam	(	0.125	mg	)	and	tiagabine	(	10	mg	)	when	given	together	as	a	single	dose	.	.
+DDI-DrugBank.d12.s7	For	these	reasons	,	it	is	felt	that	,	in	most	subjects	who	have	had	an	unsatisfactory	lipid	response	to	either	drug	alone	,	the	possible	benefits	of	combined	therapy	with	lovastatin	and	a	fibrate	do	not	outweigh	the	risks	of	severe	myopathy	,	rhabdomyolysis	,	and	acute	renal	failure	.	.
+DDI-DrugBank.d531.s31	Alternatives	to	clarithromycin	,	such	as	azithromycin	,	should	be	considered	.	.
+DDI-DrugBank.d74.s0	FLUOTHANE	augments	the	action	of	non	-	depolarising_muscle_relaxants	and	the	muscle	relaxant	effects	of	aminoglycosides	.	.
+DDI-DrugBank.d210.s33	In	post	-	marketing	experience	,	bleeding	events	have	been	reported	,	predominantly	in	the	elderly	,	in	association	with	increases	in	prothrombin	time	in	patients	receiving	VIOXX	concurrently	with	warfarin	.	.
+DDI-DrugBank.d267.s1	The	use	of	NUROMAX	before	succinylcholine	to	attenuate	some	of	the	side	effects	of	succinylcholine	has	not	been	studied	.	.
+DDI-DrugBank.d509.s7	Agents	that	induce	CYP3A4	(	eg	,	carbamazepine	)	could	cause	an	increase	in	aripiprazole	clearance	and	lower	blood	levels	.	.
+DDI-DrugBank.d500.s4	Barbiturates	,	carbamazepine	,	and	phenytoin	decrease	the	half	-	life	of	doxycycline	.	.
+DDI-DrugBank.d301.s14	Other	binding	proteins	may	be	elevated	in	serum	,	i.e.	,	corticosteroid	binding	globulin	(	CBG	)	,	sex	hormone	-	binding	globulin	(	SHBG	)	,	leading	to	increased	total	circulating	corticosteroids	and	sex_steroids	,	respectively	.	.
+DDI-DrugBank.d567.s15	Also	,	bleeding	and/or	increased	prothrombin	time	have	been	reported	in	a	few	patients	taking	coumarin_anticoagulants	concomitantly	with	lovastatin	.	.
+DDI-DrugBank.d151.s0	Folic_acid	in	large	amounts	may	counteract	the	antiepileptic	effect	of	phenobarbital	,	phenytoin	and	primidone	,	and	increase	the	frequency	of	seizures	in	susceptible	pediatric	patients	.	.
+DDI-MedLine.d126.s0	Cypermethrin	-	induced	oxidative	stress	in	rat	brain	and	liver	is	prevented	by	vitamin_E	or	allopurinol	.	_	.
+DDI-DrugBank.d543.s1	MAO_inhibitors	,	narcotic_analgesics	(	e.g.	,	meperidine	)	,	nitrates	and	nitrites	,	sympathomimetic_agents	,	tricyclic_antidepressants	,	and	other	drugs	having	anticholinergic	activity	.	.
+DDI-DrugBank.d132.s20	Nonsteroidal_Anti	-	Inflammatory_Drugs	,	The	administration	of	diflunisal	to	normal	volunteers	receiving	indomethacin	decreased	the	renal	clearance	and	significantly	increased	the	plasma	levels	of	indomethacin	.	.
+DDI-MedLine.d137.s10	CONCLUSIONS	/	INTERPRETATION	,	Glucose	and	insulin	can	exert	additive	vasodilator	properties	on	renal	and	ocular	circulation	.	.
+DDI-DrugBank.d501.s6	However	,	appropriate	monitoring	of	blood	glucose	should	be	performed	when	initiating	EXTRANEAL	in	diabetic	patients	and	insulin	dosage	should	be	adjusted	if	needed	.	.
+DDI-DrugBank.d286.s2	Coadministration	of	ethoxzolamide	with	other	diuretics	,	amphotericin_B	,	and	corticosteroids	may	cause	hypokalemia	.	.
+DDI-DrugBank.d458.s10	Ketoconazole	tablets	may	alter	the	metabolism	of	cyclosporine	,	tacrolimus	,	and	methylprednisolone	,	resulting	in	elevated	plasma	concentrations	of	the	latter	drugs	.	.
+DDI-DrugBank.d210.s0	ACE_inhibitors	,	Reports	suggest	that	NSAIDs	may	diminish	the	antihypertensive	effect	of	Angiotensin_Converting_Enzyme_(ACE)_inhibitors	.	.
+DDI-DrugBank.d297.s3	Concurrent	administration	of	a	TNF_antagonist	with	ORENCIA	has	been	associated	with	an	increased	risk	of	serious	infections	and	no	significant	additional	efficacy	over	use	of	the	TNF_antagonists	alone	.	.
+DDI-DrugBank.d187.s14	Plasma	valproate	concentration	should	be	monitored	when	isoniazid	and	valproate	are	co	administered	,	and	appropriate	dosage	adjustments	of	valproate	should	be	made	.	.
+DDI-DrugBank.d568.s19	The	effect	of	theophylline	on	the	pharmacokinetics	of	citalopram	was	not	evaluated	.	.
+DDI-DrugBank.d565.s10	If	combination	therapy	is	initiated	or	withdrawn	in	conjunction	with	propranolol	,	an	adjustment	in	the	propranolol	dose	may	be	warranted	.	.
+DDI-DrugBank.d124.s22	HMG	-	CoA_Reductase_Inhibitors	,	lovastatin	,	simvastatin	WARNING	potential	for	serious	reactions	such	as	risk	of	myopathy	including	rhabdomyolysis	.	.
+DDI-DrugBank.d328.s28	Concomitant	single	dose	administration	of	valdecoxib	20	mg	with	multiple	doses	of	ketoconazole	and	fluconazole	produced	a	significant	increase	in	exposure	of	valdecoxib	.	.
+DDI-DrugBank.d289.s25	Simvastatin	and	Other	Statins	,	Co	-	administration	of	bosentan	decreased	the	plasma	concentrations	of	simvastatin	(	a	CYP3A4	substrate	)	,	and	its	active	_	-hydroxy	acid	metabolite	,	by	approximately	50	%	.	.
+DDI-DrugBank.d542.s0	Interactions	for	Vitamin_B3	(	Niacin	)	,	Antihypertensive	Therapy	,	Nicotinic_acid	may	potentiate	the	effects	of	ganglionic_blocking_agents	and	vasoactive	drugs	resulting	in	postural	hypotension	.	.
+DDI-DrugBank.d509.s0	Drug	-	Drug	Interactions	Given	the	primary	CNS	effects	of	aripiprazole	,	caution	should	be	used	when	ABILIFY	is	taken	in	combination	with	other	centrally_acting_drugs	and	alcohol	.	.
+DDI-DrugBank.d275.s1	Toxicologic	and	toxicokinetic	studies	in	rats	did	not	demonstrate	any	alterations	in	the	clearance	or	toxicologic	profile	of	either	methotrexate	or	Kineret	when	the	two	agents	were	administered	together	.	.
+DDI-MedLine.d111.s2	Acetaminophen	,	lidocaine	,	phenobarbital	,	quinidine	,	theophylline	,	and	valproic_acid	were	added	to	pooled	human	serum	at	therapeutic	concentrations	.	.
+DDI-DrugBank.d316.s14	Anticonvulsants	,	In	a	pharmacokinetic	study	,	maximum	plasma	concentrations	of	felodipine	were	considerably	lower	in	epileptic	patients	on	long	-	term	anticonvulsant	therapy	(	eg	,	phenytoin	,	carbamazepine	,	or	phenobarbital	)	than	in	healthy	volunteers	.	.
+DDI-DrugBank.d317.s13	Other	binding	proteins	may	be	elevated	in	serum	,	(	i.e.	,	corticosteroid	binding	globulin	(	CBG	)	,	sex	hormone	binding	globulin	(	SHBG	)	)	leading	to	increased	total	circulating	corticosteroids	and	sex_steroids	,	respectively	.	.
+DDI-DrugBank.d284.s8	The	concurrent	use	of	intravenously	or	orally	administered	methylxanthines	(	e.g.	,	aminophylline	,	theophylline	)	by	patients	receiving	BROVANA	has	not	been	completely	evaluated	.	.
+DDI-DrugBank.d97.s12	Sedative	/	hypnotics	,	midazolam	,	triazolam	.
+DDI-DrugBank.d443.s0	Uricosuric_Agents	,	Aspirin	may	decrease	the	effects	of	probenecid	,	sulfinpyrazone	,	and	phenylbutazone	.	.
+DDI-DrugBank.d97.s3	Drugs	that	induce	CYP3A4	activity	would	be	expected	to	increase	the	clearance	of	indinavir	,	resulting	in	lowered	plasma	concentrations	of	indinavir	.	.
+DDI-DrugBank.d263.s0	Zidovudine	,	There	is	no	significant	pharmacokinetic	interaction	between	ZDV	and	zalcitabine	which	has	been	confirmed	clinically	.	.
+DDI-DrugBank.d3.s10	Therefore	,	concomitant	use	of	TORADOL	and	probenecid	is	contraindicated	.	.
+DDI-MedLine.d86.s0	Pharmacokinetic	interaction	between	single	oral	doses	of	diltiazem	and	sirolimus	in	healthy	volunteers	.	_	.
+DDI-MedLine.d124.s6	1	hour	after	starting	the	oxycodone	or	levofloxacin	500	mg	p.o	.	.
+DDI-DrugBank.d198.s38	Alcohol	,	Alcohol	(	0.5	g	/	kg	body	weight	,	approximately	40	mL	of	absolute	alcohol	in	a	70	kg	person	)	and	vardenafil	plasma	levels	were	not	altered	when	dosed	simultaneously	.	.
+DDI-DrugBank.d462.s7	Methotrexate	,	Piperacillin_sodium	may	reduce	the	excretion	of	methotrexate	.	.
+DDI-DrugBank.d219.s18	Thus	,	when	NSAIDs	and	lithium	are	administered	concurrently	,	subjects	should	be	observed	carefully	for	signs	of	lithium	toxicity	.	.
+DDI-DrugBank.d165.s4	Another	oral	azole_antifungal	,	ketoconazole	,	inhibits	the	metabolism	of	astemizole	,	resulting	in	elevated	plasma	concentrations	of	astemizole	and	its	active	metabolite	desmethylastermizole	which	may	prolong	QT	intervals	.	.
+DDI-MedLine.d116.s5	This	effect	may	be	mediated	by	the	ability	of	rifampin	to	induce	microsomal	enzymes	and	,	thus	,	the	catabolism	of	warfarin	.	.
+DDI-MedLine.d93.s4	Thirty	male	rats	of	the	Fischer-344	strain	were	divided	into	three	equal	groups	and	were	given	injections	of	trimethyl_lead	(	TML	)	(	8.0	or	17.0	mg	/	kg	/	ml	SC	)	or	the	saline	vehicle	.	.
+DDI-DrugBank.d530.s1	Concomitant	use	of	L	-	phenylalanine	and	non	-	selective_MAO_inhibitors	may	cause	hypertension	.	.
+DDI-DrugBank.d410.s2	Sumatriptan	and	D.H.E._45	_	(	dihydroergotamine_mesylate	)	Injection	,	USP	should	not	be	taken	within	24	hours	of	each	other	..	.
+DDI-DrugBank.d460.s6	Digoxin	,	When	Starlix	120	mg	before	meals	was	administered	in	combination	with	a	single	1-mg	dose	of	digoxin	to	healthy	volunteers	,	there	were	no	clinically	relevant	changes	in	the	pharmacokinetics	of	either	agent	.	.
