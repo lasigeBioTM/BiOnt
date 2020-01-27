@@ -34,7 +34,7 @@ python3 src/ontologies_embeddings.py preprocess DRUG-DRUG test corpora/drug_drug
 # $4: model_name
 # $6:: channels
 
-python3 src/ontologies_embeddings.py train DRUG-DRUG ont_1 words wordnet concatenation_ancestors common_ancestors
+python3 src/ontologies_embeddings.py train DRUG-DRUG model_name words wordnet concatenation_ancestors common_ancestors
 # python3 src/ontologies_embeddings.py train DRUG-GENE model words wordnet concatenation_ancestors
 # python3 src/ontologies_embeddings.py train DRUG-PHENOTYPE model words wordnet concatenation_ancestors
 # python3 src/ontologies_embeddings.py train DRUG-DISEASE model_sentences_no_2 words wordnet #concatenation_ancestors
@@ -51,7 +51,7 @@ python3 src/ontologies_embeddings.py train DRUG-DRUG ont_1 words wordnet concate
 # $5: gold_standard
 # $6:: channels
 
-python3 src/ontologies_embeddings.py test DRUG-DRUG ont_1 corpora/drug_drug/test words wordnet concatenation_ancestors common_ancestors
+python3 src/ontologies_embeddings.py test DRUG-DRUG model_name corpora/drug_drug/test words wordnet concatenation_ancestors common_ancestors
 # python3 src/ontologies_embeddings.py test DRUG-GENE model corpora/drug_gene/test/ words wordnet concatenation_ancestors
 # python3 src/ontologies_embeddings.py test DRUG-PHENOTYPE model corpora/drug_phenotype/test/ words wordnet concatenation_ancestors
 # python3 src/ontologies_embeddings.py test DRUG-DISEASE model_sentences_no_2 corpora/drug_disease/test/ words wordnet #concatenation_ancestors

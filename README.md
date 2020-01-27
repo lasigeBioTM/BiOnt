@@ -54,6 +54,22 @@ For more options check **model.sh**.
 
 For more options check **model.sh**.
 
+## Predict New Data
+
+* $2: type_of_action
+* $3: pair_type
+* $4: model_name
+* $5: gold_standard [OPTIONAL]
+* $6:: channels
+
+### Example:
+
+````
+ python3 src/ontologies_embeddings.py test DRUG-DRUG model_name corpora/drug_drug/test words wordnet concatenation_ancestors common_ancestors
+````
+
+For more options check **model.sh**.
+
 ## Reference
 
 - Diana Sousa and Francisco M. Couto. 2020. BiOnt: Deep Learning using Multiple Biomedical Ontologies for Relation Extraction. 
