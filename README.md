@@ -59,7 +59,7 @@ For more options check **model.sh**.
 * $2: type_of_action
 * $3: pair_type
 * $4: model_name
-* $5: gold_standard [OPTIONAL]
+* $5: gold_standard OR data_to_test
 * $6:: channels
 
 ### Example:
