@@ -269,7 +269,7 @@ def run_sst(base_dir, token_seq):
     chunks = [sent_ids[i:i + chunk_size] for i in range(0, len(sent_ids), chunk_size)]
 
     for i, chunk in enumerate(chunks):
-        sentence_file = open('{}/sentences_{}.txt'.format(temporary_directory + base_dir.split('/')[1], i), 'w')
+        sentence_file = open('{}/sentences_{}.txt'.format(temporary_directory + base_dir.split('/')[1], i), 'w', encoding = 'utf-8')
 
         for sent in chunk:
             sentence_file.write("{}\t{}\t.\n".format(sent, '\t'.join(token_seq[sent])))
@@ -283,7 +283,7 @@ def run_sst(base_dir, token_seq):
         p = Popen(sst_args, stdout = PIPE)
         p.communicate()
 
-        with open('{}/sentences_{}.txt.tags'.format(temporary_directory + base_dir.split('/')[1], i)) as f:
+        with open('{}/sentences_{}.txt.tags'.format(temporary_directory + base_dir.split('/')[1], i), encoding = 'utf-8') as f:
             output = f.read()
 
         sstoutput = parse_sst_results(output)
