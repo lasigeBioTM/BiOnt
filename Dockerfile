@@ -16,21 +16,28 @@ RUN apt-get update -y && apt-get install wget -y
 #                  COPY REPOSITORY DIRECTORIES                
 # --------------------------------------------------------------
 
-#COPY bolstm/src/ src/
+COPY src/ src/
+COPY corpora/ corpora/
+COPY data/ data/
+COPY models/ models/
+COPY results/ results/
+COPY temp/ temp/
 
 
 # --------------------------------------------------------------
 #               PYTHON LIBRARIES AND CONFIGURATION
 # --------------------------------------------------------------
 
-RUN apt-get update && apt-get install -y python3 python3-pip python3-dev && apt-get autoclean -y
+RUN apt-get update && apt-get install -y python3 python3-pip python3-dev && apt-get install cuda-9-0 -y && apt-get autoclean -y
 #RUN apt-get update && apt-get install sqlite3 libsqlite3-dev -y
 RUN ln -s $(which pip3) /usr/bin/pip
 RUN pip install --upgrade pip
+RUN pip install --upgrade setuptools
 RUN pip install numpy==1.13.3
 RUN pip install tensorflow-gpu==1.5.0
 RUN pip install gensim==3.1.0
-RUN pip install Keras
+RUN pip install Keras==2.1.5
+RUN pip install rdflib
 RUN pip install sklearn==0.0
 RUN pip install matplotlib
 RUN apt-get update && apt-get install -y git && apt-get autoclean -y
@@ -82,7 +89,7 @@ RUN wget -q http://labs.rd.ciencias.ulisboa.pt/dishin/hp.db
 RUN wget -q https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.owl
 RUN wget -q http://labs.rd.ciencias.ulisboa.pt/dishin/do.db
 
-#RUN git clone git@github.com:lasigeBioTM/DiShIn.git
+UN git clone git@github.com:lasigeBioTM/DiShIn.git
 
 WORKDIR /data
 
