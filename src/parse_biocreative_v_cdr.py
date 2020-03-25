@@ -13,8 +13,8 @@ import string
 
 import ontology_preprocessing
 
-sys.path.append('bin/')  # access bin
-from DiShIn import ssm
+sys.path.append('bin/DiShIn/')  # access bin/DiShIn/
+from ssmpy import ssm
 
 # Input Parameters
 sst_light_directory = 'bin/sst-light-0.4/'
