@@ -17,10 +17,11 @@ import matplotlib.pyplot as plt
 # To run on GPU
 import tensorflow as tf
 from keras.backend.tensorflow_backend import set_session
-config = tf.ConfigProto()
+config = tf.compat.v1.ConfigProto()
 config.gpu_options.allow_growth = True  # dynamically grow the memory used on the GPU
+config.log_device_placement = True 
 
-sess = tf.Session(config = config)
+sess = tf.compat.v1.Session(config = config)
 set_session(sess)  # set this TensorFlow session as the default session for Keras
 
 import ontology_preprocessing

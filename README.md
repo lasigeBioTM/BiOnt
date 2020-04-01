@@ -21,8 +21,7 @@ The training details are described in our academic paper.
  git clone git@github.com:lasigeBioTM/DiShIn.git
 ````
 
-Use the Dockerfile to setup the rest of the experimental environment or the [BiOnt Image](https://hub.docker.com/r/dpavot/biont) available at Docker Hub.
-   
+Use the Dockerfile to setup the rest of the experimental environment or the [BiOnt Image](https://hub.docker.com/r/dpavot/biont) available at Docker Hub. 
 ## Preparing Data
 
 * $2: type_of_action
