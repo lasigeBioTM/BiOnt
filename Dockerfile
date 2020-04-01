@@ -16,7 +16,7 @@ RUN apt-get update -y && apt-get install wget -y && apt-get install curl -y && a
 #                  COPY REPOSITORY DIRECTORIES                
 # --------------------------------------------------------------
 
-COPY bin/ bin/
+COPY bin/DiShIn/ bin/DiShIn/
 COPY src/ src/
 COPY corpora/ corpora/
 COPY data/ data/

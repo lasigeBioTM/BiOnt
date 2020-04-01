@@ -130,7 +130,8 @@ def get_common_ancestors(id1, id2):
     if id1.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
-    e1 = ssm.get_id(id1.replace(':', '_'))
+    e1 = id1.replace(':', '_')
+    #e1 = ssm.get_id(id1.replace(':', '_'))
 
     if id2.startswith('CHEBI'):
         ssm.semantic_base('bin/DiShIn/chebi.db')
@@ -141,8 +142,10 @@ def get_common_ancestors(id1, id2):
     if id2.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
-    e2 = ssm.get_id(id2.replace(':', '_'))
+    e2 = id2.replace(':', '_')
+    #e2 = ssm.get_id(id2.replace(':', '_'))
 
+    print(e1, e2)
     a = ssm.common_ancestors(e1, e2)
     # if a:
     #     print(id1, id2)
@@ -192,7 +195,7 @@ def get_ancestors(sentence_labels, sentence_entities):
     common_ancestors = []
 
     for p in sentence_labels:
-
+        print(p)
         instance_ancestors = get_common_ancestors(sentence_entities[p[0]][2], sentence_entities[p[1]][2])
         left_path = get_path_to_root(sentence_entities[p[0]][2])
         right_path = get_path_to_root(sentence_entities[p[1]][2])
