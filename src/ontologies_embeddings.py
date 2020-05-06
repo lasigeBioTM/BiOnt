@@ -19,7 +19,6 @@ import tensorflow as tf
 from keras.backend.tensorflow_backend import set_session
 config = tf.compat.v1.ConfigProto()
 config.gpu_options.allow_growth = True  # dynamically grow the memory used on the GPU
-config.log_device_placement = True 
 
 sess = tf.compat.v1.Session(config = config)
 set_session(sess)  # set this TensorFlow session as the default session for Keras
@@ -39,8 +38,8 @@ models_directory = 'models'
 data_directory = 'data'
 temporary_directory = 'temp/'
 results_directory = 'results/'
-n_epochs = 1
-batch_size = 64
+n_epochs = 100
+batch_size = 34
 validation_split = 0.2
 
 

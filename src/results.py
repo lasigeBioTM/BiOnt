@@ -16,7 +16,7 @@ def model_results_xml(test_results_file, directory_test):
     :param directory_test
     :return: floats that correspond to the metrics precision, recall and F-measure
     """
-
+    
     results = open(test_results_file, 'r')
     results.readline()  # skip header
     results_lines = results.readlines()

@@ -72,6 +72,9 @@ def get_sentence_entities(base_dir, name_to_id, synonym_to_id, entity_id_max = 1
                 elif pair.get('relation') == 'true':
                     pos_pairs[(pair.get('e1'), pair.get('e2'))] = EFFECT
 
+                elif pair.get('pgr') == 'true':
+                    pos_pairs[(pair.get('e1'), pair.get('e2'))] = EFFECT
+
             for p in pos_pairs:
                 pair_entities.add(p[0])
                 pair_entities.add(p[1])
@@ -130,8 +133,7 @@ def get_common_ancestors(id1, id2):
     if id1.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
-    e1 = id1.replace(':', '_')
-    #e1 = ssm.get_id(id1.replace(':', '_'))
+    e1 = ssm.get_id(id1.replace(':', '_'))
 
     if id2.startswith('CHEBI'):
         ssm.semantic_base('bin/DiShIn/chebi.db')
@@ -142,10 +144,8 @@ def get_common_ancestors(id1, id2):
     if id2.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
-    e2 = id2.replace(':', '_')
-    #e2 = ssm.get_id(id2.replace(':', '_'))
+    e2 = ssm.get_id(id2.replace(':', '_'))
 
-    print(e1, e2)
     a = ssm.common_ancestors(e1, e2)
     # if a:
     #     print(id1, id2)
@@ -195,7 +195,7 @@ def get_ancestors(sentence_labels, sentence_entities):
     common_ancestors = []
 
     for p in sentence_labels:
-        print(p)
+
         instance_ancestors = get_common_ancestors(sentence_entities[p[0]][2], sentence_entities[p[1]][2])
         left_path = get_path_to_root(sentence_entities[p[0]][2])
         right_path = get_path_to_root(sentence_entities[p[1]][2])
@@ -272,7 +272,7 @@ def run_sst(base_dir, token_seq):
     chunks = [sent_ids[i:i + chunk_size] for i in range(0, len(sent_ids), chunk_size)]
 
     for i, chunk in enumerate(chunks):
-        sentence_file = open('{}/sentences_{}.txt'.format(temporary_directory + base_dir.split('/')[1], i), 'w', encoding = 'utf-8')
+        sentence_file = open('{}/sentences_{}.txt'.format(temporary_directory + base_dir.split('/')[1], i), 'w')
 
         for sent in chunk:
             sentence_file.write("{}\t{}\t.\n".format(sent, '\t'.join(token_seq[sent])))
@@ -286,7 +286,7 @@ def run_sst(base_dir, token_seq):
         p = Popen(sst_args, stdout = PIPE)
         p.communicate()
 
-        with open('{}/sentences_{}.txt.tags'.format(temporary_directory + base_dir.split('/')[1], i), encoding = 'utf-8') as f:
+        with open('{}/sentences_{}.txt.tags'.format(temporary_directory + base_dir.split('/')[1], i)) as f:
             output = f.read()
 
         sstoutput = parse_sst_results(output)
@@ -620,6 +620,9 @@ def get_sdp_instances(base_dir, name_to_id, synonym_to_id, parser = 'spacy'):
                     sentence_pairs[(pair.get('e1'), pair.get('e2'))] = EFFECT
 
                 elif pair.get('relation') == 'true':
+                    sentence_pairs[(pair.get('e1'), pair.get('e2'))] = EFFECT
+
+                elif pair.get('pgr') == 'true':
                     sentence_pairs[(pair.get('e1'), pair.get('e2'))] = EFFECT
 
             if len(sentence.findall('pair')) > 0:  # skip sentences without pairs

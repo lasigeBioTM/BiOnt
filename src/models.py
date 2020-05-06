@@ -16,7 +16,7 @@ from keras import backend as K
 from sklearn.metrics import confusion_matrix, f1_score, precision_score, recall_score
 
 # Input Parameters (Model Architecture)
-n_classes = 5
+n_classes = 2
 max_ancestors_length = 20
 max_sentence_length = 20
 embedding_size = 200
@@ -185,7 +185,7 @@ def get_model(embedding_matrix, channels, wordnet_emb, id_to_index):
     model = Model(inputs = inputs, outputs = [output])
 
     model.compile(loss = 'categorical_crossentropy', # options: categorical | binary_crossentropy
-                  optimizer = Adam(0.001),  # options: RMSprop(0.0001) | SGD(0.1)
+                  optimizer = RMSprop(0.0001),  # options: Adam(0.001) | SGD(0.1)
                   # sample_weight_mode = None,  # optional
                   # weighted_metrics = [recall],  # optional
                   metrics = ['accuracy', precision, recall, f1])
