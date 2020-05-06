@@ -52,15 +52,8 @@ def get_sentence_entities(base_dir, name_to_id, synonym_to_id, entity_id_max = 1
 
     for f in os.listdir(base_dir):
 
-        reader = open(base_dir + '/' + f, 'r', encoding='utf-8')
-        content = reader.read().replace('</sup>', 'AAAA').replace('<sup>', 'AAA').replace('</b>', 'AAAA')\
-            .replace('<b>', 'AAA').replace('</i>', 'AAAA').replace('<i>', 'AAA').replace('</sub>', 'AAAA')\
-            .replace('<sub>', 'AAA')
-
-        root = ET.fromstring(content)
-
-        #tree = ET.parse(base_dir + '/' + f)
-        #root = tree.getroot()
+        tree = ET.parse(base_dir + '/' + f)
+        root = tree.getroot()
 
         for sentence in root:
             sentence_id = sentence.get('id')
@@ -140,8 +133,7 @@ def get_common_ancestors(id1, id2):
     if id1.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
-    e1 = id1.replace(':', '_')
-    #e1 = ssm.get_id(id1.replace(':', '_'))
+    e1 = ssm.get_id(id1.replace(':', '_'))
 
     if id2.startswith('CHEBI'):
         ssm.semantic_base('bin/DiShIn/chebi.db')
@@ -152,10 +144,8 @@ def get_common_ancestors(id1, id2):
     if id2.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
-    e2 = id2.replace(':', '_')
-    #e2 = ssm.get_id(id2.replace(':', '_'))
+    e2 = ssm.get_id(id2.replace(':', '_'))
 
-    #print(e1, e2)
     a = ssm.common_ancestors(e1, e2)
     # if a:
     #     print(id1, id2)
@@ -205,7 +195,7 @@ def get_ancestors(sentence_labels, sentence_entities):
     common_ancestors = []
 
     for p in sentence_labels:
-        #print(p)
+
         instance_ancestors = get_common_ancestors(sentence_entities[p[0]][2], sentence_entities[p[1]][2])
         left_path = get_path_to_root(sentence_entities[p[0]][2])
         right_path = get_path_to_root(sentence_entities[p[1]][2])
@@ -282,7 +272,7 @@ def run_sst(base_dir, token_seq):
     chunks = [sent_ids[i:i + chunk_size] for i in range(0, len(sent_ids), chunk_size)]
 
     for i, chunk in enumerate(chunks):
-        sentence_file = open('{}/sentences_{}.txt'.format(temporary_directory + base_dir.split('/')[1], i), 'w', encoding = 'utf-8')
+        sentence_file = open('{}/sentences_{}.txt'.format(temporary_directory + base_dir.split('/')[1], i), 'w')
 
         for sent in chunk:
             sentence_file.write("{}\t{}\t.\n".format(sent, '\t'.join(token_seq[sent])))
@@ -296,7 +286,7 @@ def run_sst(base_dir, token_seq):
         p = Popen(sst_args, stdout = PIPE)
         p.communicate()
 
-        with open('{}/sentences_{}.txt.tags'.format(temporary_directory + base_dir.split('/')[1], i), encoding = 'utf-8') as f:
+        with open('{}/sentences_{}.txt.tags'.format(temporary_directory + base_dir.split('/')[1], i)) as f:
             output = f.read()
 
         sstoutput = parse_sst_results(output)
@@ -337,15 +327,8 @@ def parse_xml_sentences_spacy(base_dir, entities):
     for f in os.listdir(base_dir):
 
         logging.info('Parsing {}'.format(f))
-
-        reader = open(base_dir + '/' + f, 'r', encoding='utf-8')
-        content = reader.read().replace('</sup>', 'AAAA').replace('<sup>', 'AAA').replace('</b>', 'AAAA') \
-            .replace('<b>', 'AAA').replace('</i>', 'AAAA').replace('<i>', 'AAA').replace('</sub>', 'AAAA') \
-            .replace('<sub>', 'AAA')
-
-        root = ET.fromstring(content)
-        #tree = ET.parse(base_dir + '/' + f)
-        #root = tree.getroot()
+        tree = ET.parse(base_dir + '/' + f)
+        root = tree.getroot()
 
         for sentence in root:
             sentence_id = sentence.get('id')
@@ -623,15 +606,8 @@ def get_sdp_instances(base_dir, name_to_id, synonym_to_id, parser = 'spacy'):
     for f in os.listdir(base_dir):
         logging.info('Generating instances: {}'.format(f))
 
-        reader = open(base_dir + '/' + f, 'r', encoding='utf-8')
-        content = reader.read().replace('</sup>', 'AAAA').replace('<sup>', 'AAA').replace('</b>', 'AAAA') \
-            .replace('<b>', 'AAA').replace('</i>', 'AAAA').replace('<i>', 'AAA').replace('</sub>', 'AAAA') \
-            .replace('<sub>', 'AAA')
-
-        root = ET.fromstring(content)
-
-        #tree = ET.parse(base_dir + '/' + f)
-        #root = tree.getroot()
+        tree = ET.parse(base_dir + '/' + f)
+        root = tree.getroot()
         for sentence in root:
             sentence_id = sentence.get('id')
 
