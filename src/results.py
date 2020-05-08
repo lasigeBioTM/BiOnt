@@ -1,4 +1,5 @@
 import os
+import copy
 
 import xml.etree.ElementTree as ET
 
@@ -22,17 +23,19 @@ def model_results_xml(test_results_file, directory_test):
     results_lines = results.readlines()
 
     dict_results = {}
-
+    count = 0
     for result in results_lines:
         line_elements = result.split('\t')
 
         if line_elements[-1][:-1] == 'no_relation':
+            count += 1
             dict_results[(line_elements[0], line_elements[1])] = 'false'
 
         elif line_elements[-1][:-1] != 'no_relation':
+            count += 1
             dict_results[(line_elements[0], line_elements[1])] = 'true'
 
-    dict_test = dict_results.copy()
+    dict_test = copy.deepcopy(dict_results)
 
     for f in os.listdir(directory_test):
 
@@ -48,10 +51,29 @@ def model_results_xml(test_results_file, directory_test):
                 for pair in all_pairs:
 
                     if pair.get('ddi'):
-                        dict_test[(pair.get('e1'), pair.get('e2'))] = pair.get('ddi')
+                        if (pair.get('e2'), pair.get('e1')) in dict_test:
+                            dict_test[(pair.get('e2'), pair.get('e1'))] = pair.get('ddi')
+                        elif (pair.get('e1'), pair.get('e2')) in dict_test:
+                            dict_test[(pair.get('e1'), pair.get('e2'))] = pair.get('ddi')
 
                     elif pair.get('relation'):
-                        dict_test[(pair.get('e1'), pair.get('e2'))] = pair.get('relation')
+                        #print(pair.get('e1'), pair.get('e2'))
+                        if (pair.get('e2'), pair.get('e1')) in dict_test:
+                            #print(dict_test[(pair.get('e2'), pair.get('e1'))])
+                            dict_test[(pair.get('e2'), pair.get('e1'))] = pair.get('relation')
+                            #print(dict_test[(pair.get('e2'), pair.get('e1'))])
+                        elif (pair.get('e1'), pair.get('e2')) in dict_test:
+                            #print(dict_test[(pair.get('e1'), pair.get('e2'))])
+                            dict_test[(pair.get('e1'), pair.get('e2'))] = pair.get('relation')
+                            #print(dict_test[(pair.get('e1'), pair.get('e2'))])
+                        #print('---------------------------------------------------')
+
+
+                    elif pair.get('pgr'):
+                        if (pair.get('e2'), pair.get('e1')) in dict_test:
+                            dict_test[(pair.get('e2'), pair.get('e1'))] = pair.get('pgr')
+                        elif (pair.get('e1'), pair.get('e2')) in dict_test:
+                            dict_test[(pair.get('e1'), pair.get('e2'))] = pair.get('pgr')
 
     true_positive = 0
     false_positive = 0

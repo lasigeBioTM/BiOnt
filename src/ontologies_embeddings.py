@@ -466,8 +466,11 @@ def join_channels(model_name, pair_type, channels, y_train, train_labels, n_clas
 
     metrics = Metrics(train_labels, x_words_train, n_inputs)
 
-    checkpoint = ModelCheckpoint(filepath = '{}/{}.h5'.format(models_directory + '/' + pair_type.replace('-', '_').lower(), model_name), verbose = 1, save_best_only = True)
-    history = model.fit(inputs, {'output': y_train}, validation_split = validation_split, epochs = n_epochs, batch_size = batch_size, verbose = 2, callbacks = [metrics, checkpoint])
+    checkpoint = ModelCheckpoint(filepath='{}/{}.h5'.format(models_directory + '/' + pair_type.replace('-', '_').lower(), model_name), verbose=1, save_best_only=True)
+    class_weight = {0: 5.,
+                    1: 1.}
+    history = model.fit(inputs, {'output': y_train}, validation_split=validation_split, epochs=n_epochs, batch_size=batch_size,
+                        verbose=2, callbacks=[metrics, checkpoint], class_weight=class_weight)
 
     write_plots(history, model_name, pair_type.replace('-', '_').lower())
 
