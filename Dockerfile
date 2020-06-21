@@ -49,6 +49,7 @@ RUN pip3 install fuzzywuzzy==0.15.1
 RUN pip3 install spacy==2.0.10
 RUN pip3 install scipy==1.0.0
 RUN pip3 install python-Levenshtein==0.12.0
+RUN pip3 install pandas
 RUN python3 -m spacy download en_core_web_sm
 
 
@@ -57,9 +58,12 @@ RUN python3 -m spacy download en_core_web_sm
 # --------------------------------------------------------------
 
 WORKDIR /bin
-RUN wget -q http://www.nactem.ac.uk/y-matsu/geniass/geniass-1.00.tar.gz && \
-    tar -xvzf geniass-1.00.tar.gz && \
-    rm geniass-1.00.tar.gz
+RUN mkdir geniass
+WORKDIR /geniass
+RUN git clone https://github.com/dpavot/geniass.git
+#RUN wget -q http://www.nactem.ac.uk/y-matsu/geniass/geniass-1.00.tar.gz && \
+#    tar -xvzf geniass-1.00.tar.gz && \
+#    rm geniass-1.00.tar.gz
 WORKDIR geniass
 RUN apt-get update -y && apt-get install -y build-essential g++ make && make
 
