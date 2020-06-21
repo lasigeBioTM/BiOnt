@@ -8,7 +8,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import numpy as np
 from gensim.models.keyedvectors import KeyedVectors
 from keras.utils.np_utils import to_categorical
-from keras.models import model_from_json
+#from keras.models import model_from_json
 from keras.preprocessing.sequence import pad_sequences
 from keras.callbacks import Callback, LambdaCallback, ModelCheckpoint
 from sklearn.metrics import confusion_matrix, f1_score, precision_score, recall_score
@@ -542,7 +542,7 @@ def predict(model_name, corpus_name, gold_standard, channels, test_labels, x_wor
     loaded_model_json = json_file.read()
     json_file.close()
 
-    loaded_model = model_from_json(loaded_model_json)
+    loaded_model = tf.keras.models.model_from_json(loaded_model_json)
 
     # Load weights
     loaded_model.load_weights('{}/{}.h5'.format(models_directory + '/' + corpus_name.replace('-', '_'), model_name))
@@ -636,12 +636,12 @@ def main():
         model_name = sys.argv[3]  # model_1, model_2 etc.
         channels = sys.argv[4:]  # channels to use or string with only one channel
 
-        y_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_y.npy')
-        train_labels = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_labels.npy')
-        x_words_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_words.npy')
-        x_wordnet_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_wordnet.npy')
-        x_subpaths_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_subpaths.npy')
-        x_ancestors_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_ancestors.npy')
+        y_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_y.npy', allow_pickle=True)
+        train_labels = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_labels.npy', allow_pickle=True)
+        x_words_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_words.npy', allow_pickle=True)
+        x_wordnet_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_wordnet.npy', allow_pickle=True)
+        x_subpaths_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_subpaths.npy', allow_pickle=True)
+        x_ancestors_train = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_ancestors.npy', allow_pickle=True)
 
         join_channels(model_name, pair_type, channels, y_train, train_labels, n_classes, x_words_train, x_wordnet_train, x_subpaths_train, x_ancestors_train, max_ancestors_length)
 
@@ -669,11 +669,11 @@ def main():
             is_a_graph_doid, name_to_id_doid, synonym_to_id_doid, id_to_name_doid, id_to_index_doid = ontology_preprocessing.load_doid('{}/doid.obo'.format(data_directory))
             id_to_index = {**id_to_index, **id_to_index_doid}
 
-        test_labels = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_labels.npy')
-        x_words_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_words.npy')
-        x_wordnet_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_wordnet.npy')
-        x_subpaths_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_subpaths.npy')
-        x_ancestors_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_ancestors.npy')
+        test_labels = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_labels.npy', allow_pickle=True)
+        x_words_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_words.npy', allow_pickle=True)
+        x_wordnet_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_wordnet.npy', allow_pickle=True)
+        x_subpaths_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_subpaths.npy', allow_pickle=True)
+        x_ancestors_test = np.load(temporary_directory + pair_type.replace('-', '_').lower() + '/' + type_of_action + '_x_ancestors.npy', allow_pickle=True)
 
         predict(model_name, pair_type.lower(), gold_standard, channels, test_labels, x_words_test, x_wordnet_test, x_subpaths_test, x_ancestors_test, id_to_index)
 
