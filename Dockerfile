@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.2-base
+FROM nvidia/cuda:10.2-cudnn7-devel-ubuntu18.04
 MAINTAINER Diana Sousa (dfsousa@lasige.di.fc.ul.pt)
 
 
@@ -13,7 +13,7 @@ RUN apt-get update -y && apt-get install wget -y && apt-get install curl -y && a
 
 
 # --------------------------------------------------------------
-#                  COPY REPOSITORY DIRECTORIES                
+#                  COPY REPOSITORY DIRECTORIES
 # --------------------------------------------------------------
 
 COPY bin/DiShIn/ bin/DiShIn/
@@ -30,15 +30,11 @@ COPY temp/ temp/
 # --------------------------------------------------------------
 
 RUN apt-get update && apt-get install -y python3 python3-pip python3-dev &&  apt-get autoclean -y
-#RUN apt-get update && apt-get install sqlite3 libsqlite3-dev -y
-#RUN unlink /usr/bin/pip
-RUN ln -s $(which pip3) /usr/bin/pip
-RUN curl https://bootstrap.pypa.io/get-pip.py | python3
 RUN pip3 install --upgrade setuptools
-RUN pip3 install numpy==1.16.4
 RUN pip3 install tensorflow-gpu
 RUN pip3 install gensim==3.1.0
 RUN pip3 install Keras==2.1.5
+RUN pip3 install numpy==1.16.4
 RUN pip3 install rdflib
 RUN pip3 install sklearn==0.0
 RUN pip3 install matplotlib
@@ -47,11 +43,11 @@ RUN git clone https://github.com/dpavot/obonet
 RUN cd obonet && python3 setup.py install
 RUN pip3 install fuzzywuzzy==0.15.1
 RUN pip3 install spacy==2.0.10
-RUN pip3 install scipy==1.0.0
+RUN pip3 install scipy==1.1.0
 RUN pip3 install python-Levenshtein==0.12.0
 RUN pip3 install pandas
 RUN python3 -m spacy download en_core_web_sm
-
+RUN pip3 install h5py==2.0.10
 
 # --------------------------------------------------------------
 #                GENIASS (REQUIRES RUBY AND MAKE)
@@ -85,7 +81,7 @@ WORKDIR sst-light-0.4
 #                             DiShIn
 # --------------------------------------------------------------
 
-WORKDIR /bin
+WORKDIR /bin/DiShIn/
 RUN wget -q ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.owl
 RUN wget -q http://labs.rd.ciencias.ulisboa.pt/dishin/chebi.db
 RUN wget -q www.geneontology.org/ontology/go.owl
@@ -105,6 +101,6 @@ RUN wget -q http://purl.obolibrary.org/obo/go.obo
 RUN wget -q https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.obo
 RUN wget -q http://evexdb.org/pmresources/vec-space-models/PubMed-w2v.bin
 
-RUN export CUDA_VISIBLE_DEVICES=0
+RUN export CUDA_VISIBLE_DEVICES=1,3,0
 
 WORKDIR /

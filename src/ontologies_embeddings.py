@@ -7,21 +7,27 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 import numpy as np
 from gensim.models.keyedvectors import KeyedVectors
-from keras.utils.np_utils import to_categorical
-#from keras.models import model_from_json
+from keras import utils
+from keras.models import model_from_json
 from keras.preprocessing.sequence import pad_sequences
 from keras.callbacks import Callback, LambdaCallback, ModelCheckpoint
 from sklearn.metrics import confusion_matrix, f1_score, precision_score, recall_score
 import matplotlib.pyplot as plt
 
 # To run on GPU
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from keras.backend.tensorflow_backend import set_session
-config = tf.compat.v1.ConfigProto()
+config = tf.ConfigProto()
 config.gpu_options.allow_growth = True  # dynamically grow the memory used on the GPU
+os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+os.environ["CUDA_VISIBLE_DEVICES"]="1,3,0"
 
-sess = tf.compat.v1.Session(config = config)
+from tensorflow.python.client import device_lib
+print(device_lib.list_local_devices())
+
+sess = tf.Session(config = config)
 set_session(sess)  # set this TensorFlow session as the default session for Keras
+tf.disable_v2_behavior()
 
 import ontology_preprocessing
 from parse_xml import sst_light_directory
@@ -380,7 +386,7 @@ def join_channels(model_name, pair_type, channels, y_train, train_labels, n_clas
     if os.path.isfile('{}/{}.h5'.format(models_directory + '/' + pair_type.replace('-', '_').lower(), model_name)):
         os.remove('{}/{}.h5'.format(models_directory + '/' + pair_type.replace('-', '_').lower(), model_name))
 
-    y_train = to_categorical(y_train, num_classes = n_classes)
+    y_train = utils.to_categorical(y_train, num_classes = n_classes)
 
     list_order = np.arange(len(y_train))
     print()
@@ -467,10 +473,10 @@ def join_channels(model_name, pair_type, channels, y_train, train_labels, n_clas
     metrics = Metrics(train_labels, x_words_train, n_inputs)
 
     checkpoint = ModelCheckpoint(filepath='{}/{}.h5'.format(models_directory + '/' + pair_type.replace('-', '_').lower(), model_name), verbose=1, save_best_only=True)
-    #class_weight = {0: 5.,
-                    #1: 1.}
+    # class_weight = {0: 5.,
+    #                 1: 1.}
     history = model.fit(inputs, {'output': y_train}, validation_split=validation_split, epochs=n_epochs, batch_size=batch_size,
-                        verbose=2, callbacks=[metrics, checkpoint]) #, class_weight=class_weight)
+                        verbose=2, callbacks=[metrics, checkpoint])#, class_weight=class_weight)
 
     write_plots(history, model_name, pair_type.replace('-', '_').lower())
 
@@ -542,7 +548,7 @@ def predict(model_name, corpus_name, gold_standard, channels, test_labels, x_wor
     loaded_model_json = json_file.read()
     json_file.close()
 
-    loaded_model = tf.keras.models.model_from_json(loaded_model_json)
+    loaded_model = model_from_json(loaded_model_json)
 
     # Load weights
     loaded_model.load_weights('{}/{}.h5'.format(models_directory + '/' + corpus_name.replace('-', '_'), model_name))

@@ -13,7 +13,7 @@ import networkx  # helps in the above
 #                 LOAD CHEBI (ENTITY TYPE: DRUG)
 # --------------------------------------------------------------
 
-def load_chebi(path = 'ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.obo'):
+def load_chebi(path = 'http://purl.obolibrary.org/obo/chebi.obo'):
     """
 
     :param path:
@@ -27,11 +27,16 @@ def load_chebi(path = 'ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.ob
     graph.add_edge('CHEBI:24431', 'BE:00000', edgetype = 'is_a')  # chemical_entity
 
     graph = graph.to_directed()
-
     is_a_graph = networkx.MultiDiGraph([(u, v, d) for u, v, d in graph.edges(data = True) if d['edgetype'] == 'is_a'])
 
-    id_to_name = {id_: data['name'] for id_, data in graph.nodes(data = True)}
-    name_to_id = {data['name']: id_ for id_, data in graph.nodes(data = True)}
+    id_to_name = {}
+    name_to_id = {}
+    for id_, data in graph.nodes(data = True):
+        try:
+            id_to_name[id_] = data['name']
+            name_to_id[data['name']] = id_
+        except KeyError:
+            pass
 
     id_to_index = {e: i + 1 for i, e in enumerate(graph.nodes())}  # ids should start on 1 and not 0
 
@@ -76,8 +81,14 @@ def load_hpo(path = 'http://purl.obolibrary.org/obo/hp.obo'):
 
     is_a_graph = networkx.MultiDiGraph([(u, v, d) for u, v, d in graph.edges(data = True) if d['edgetype'] == 'is_a'])
 
-    id_to_name = {id_: data['name'] for id_, data in graph.nodes(data = True)}
-    name_to_id = {data['name']: id_ for id_, data in graph.nodes(data = True)}
+    id_to_name = {}
+    name_to_id = {}
+    for id_, data in graph.nodes(data=True):
+        try:
+            id_to_name[id_] = data['name']
+            name_to_id[data['name']] = id_
+        except KeyError:
+            pass
 
     id_to_index = {e: i + 1 for i, e in enumerate(graph.nodes())}  # ids should start on 1 and not 0
 
@@ -167,8 +178,14 @@ def load_doid(path = 'https://raw.githubusercontent.com/DiseaseOntology/HumanDis
 
     is_a_graph = networkx.MultiDiGraph([(u, v, d) for u, v, d in graph.edges(data = True) if d['edgetype'] == 'is_a'])
 
-    id_to_name = {id_: data['name'] for id_, data in graph.nodes(data = True)}
-    name_to_id = {data['name']: id_ for id_, data in graph.nodes(data = True)}
+    id_to_name = {}
+    name_to_id = {}
+    for id_, data in graph.nodes(data=True):
+        try:
+            id_to_name[id_] = data['name']
+            name_to_id[data['name']] = id_
+        except KeyError:
+            pass
 
     id_to_index = {e: i + 1 for i, e in enumerate(graph.nodes())}  # ids should start on 1 and not 0
 

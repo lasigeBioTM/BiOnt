@@ -8,9 +8,9 @@ Our academic paper which describes BiOnt in detail can be found [here](https://d
 
 Available versions of pre-trained weights are as follows:
 
-* [DRUG-DRUG](https://drive.google.com/open?id=1IBAV1GqaIbaPPGWfn1OYVWOAHZDwDStB)
-* [DRUG-DISEASE](https://drive.google.com/open?id=1g9zvR_RC8fm5W771zCisTZ6gr_jPR3Lr)
-* [GENE-PHENOTYPE](https://drive.google.com/open?id=1iEQj6SovWTwybeuPcHNPnu26Qio4Cb_Z)
+* [DRUG-DRUG](https://drive.google.com/file/d/1xRassA5C3TA_zjF2DRwygeo4Yy_gRjmi/view?usp=sharing)
+* [DRUG-DISEASE](https://drive.google.com/file/d/1-ur6HnaN9MmQOM-7zoAaURIvIUAR_o0W/view?usp=sharing)
+* [GENE-PHENOTYPE](https://drive.google.com/file/d/18Wa2WJKZunlOJTemQYPi3t_shWrPnPLZ/view?usp=sharing)
 
 The training details are described in our academic paper.
 

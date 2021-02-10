@@ -1,17 +1,8 @@
 import keras
-from keras.layers import Input
-from keras.layers import Concatenate
-from keras.layers import Bidirectional
-from keras.layers import Dropout
-from keras.layers import GlobalMaxPooling1D
-from keras.layers import Embedding
-from keras.layers import SpatialDropout1D
-from keras.layers import LSTM
-from keras.layers import Dense
+import tensorflow
+from keras.layers import Input, Concatenate, Bidirectional, Dropout, GlobalMaxPooling1D, Embedding, SpatialDropout1D, LSTM, Dense
 from keras.models import Model
-from keras.optimizers import RMSprop
-from keras.optimizers import SGD
-from keras.optimizers import Adam
+from keras.optimizers import RMSprop, SGD, Adam
 from keras import backend as K
 from sklearn.metrics import confusion_matrix, f1_score, precision_score, recall_score
 
