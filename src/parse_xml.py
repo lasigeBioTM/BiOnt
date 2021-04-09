@@ -126,35 +126,28 @@ def get_common_ancestors(id1, id2):
 
     if id1.startswith('CHEBI'):
         ssm.semantic_base('bin/DiShIn/chebi.db')
-    if id1.startswith('HP'):
+    elif id1.startswith('HP'):
         ssm.semantic_base('bin/DiShIn/hp.db')
-    if id1.startswith('GO'):
+    elif id1.startswith('GO'):
         ssm.semantic_base('bin/DiShIn/go.db')
-    if id1.startswith('DOID'):
+    elif id1.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
     e1 = ssm.get_id(id1.replace(':', '_'))
 
     if id2.startswith('CHEBI'):
         ssm.semantic_base('bin/DiShIn/chebi.db')
-    if id2.startswith('HP'):
+    elif id2.startswith('HP'):
         ssm.semantic_base('bin/DiShIn/hp.db')
-    if id2.startswith('GO'):
+    elif id2.startswith('GO'):
         ssm.semantic_base('bin/DiShIn/go.db')
-    if id2.startswith('DOID'):
+    elif id2.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
     e2 = ssm.get_id(id2.replace(':', '_'))
 
     a = ssm.common_ancestors(e1, e2)
-    # if a:
-    #     print(id1, id2)
-    #     print(e1, e2)
-    #     print()
-    #     print(a)
-    #     b = [ssm.get_name(x) for x in a]
-    #     print(b)
-    #     print('\n\n\n')
+
     a = [ssm.get_name(x) for x in a]
 
     return a
@@ -168,11 +161,11 @@ def get_path_to_root(entity_id):
 
     if entity_id.startswith('CHEBI'):
         ssm.semantic_base('bin/DiShIn/chebi.db')
-    if entity_id.startswith('HP'):
+    elif entity_id.startswith('HP'):
         ssm.semantic_base('bin/DiShIn/hp.db')
-    if entity_id.startswith('GO'):
+    elif entity_id.startswith('GO'):
         ssm.semantic_base('bin/DiShIn/go.db')
-    if entity_id.startswith('DOID'):
+    elif entity_id.startswith('DOID'):
         ssm.semantic_base('bin/DiShIn/doid.db')
 
     e1 = ssm.get_id(entity_id.replace(':', '_'))
@@ -475,8 +468,8 @@ def process_sentence_spacy(base_dir, sentence, sentence_entities, sentence_pairs
             e2_text = sentence_entities[sentence_head_tokens_type_2[e2]]
 
         else:
-            e1_text = sentence_entities[sentence_head_tokens_type_1[e2]]
-            e2_text = sentence_entities[sentence_head_tokens_type_2[e1]]
+            e2_text = sentence_entities[sentence_head_tokens_type_1[e2]]
+            e1_text = sentence_entities[sentence_head_tokens_type_2[e1]]
 
         if 'train' in base_dir:
             middle_text = sentence.text[e1_text[0][-1]:e2_text[0][0]]
