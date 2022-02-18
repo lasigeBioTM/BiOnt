@@ -131,7 +131,7 @@ def preprocess_ids(x_data, id_to_index, max_len):
                     pass
 
                 else:
-                    idxs = [id_to_index[d.replace('_', ':')]]
+                    idxs.append(id_to_index[d.replace('_', ':')])
 
         data.append(idxs)
 
