@@ -8,9 +8,9 @@ Our academic paper which describes BiOnt in detail can be found [here](https://d
 
 Available versions of pre-trained weights are as follows:
 
-* [DRUG-DRUG](https://drive.google.com/file/d/1xRassA5C3TA_zjF2DRwygeo4Yy_gRjmi/view?usp=sharing)
-* [DRUG-DISEASE](https://drive.google.com/file/d/1-ur6HnaN9MmQOM-7zoAaURIvIUAR_o0W/view?usp=sharing)
-* [GENE-PHENOTYPE](https://drive.google.com/file/d/18Wa2WJKZunlOJTemQYPi3t_shWrPnPLZ/view?usp=sharing)
+* [DRUG-DRUG](https://zenodo.org/records/10230879?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY4ZTE5ZGUxLTQ3ZDEtNDIzZS05MTBhLWNmOGQ4NDc4Mzc4MCIsImRhdGEiOnt9LCJyYW5kb20iOiI0MGRlM2VhOTJiNjZiODk2ODQ0N2ZiOTJmMTRlN2Y5NCJ9.pMax9Vk9YV8CRUl-Ga2VxQXUVuXOkzcaW5NECrsm9doN1e5mizR3VVrXkAcDGLH5FjR642wcd_EqzUFSo28rnA)
+* [DRUG-DISEASE](https://zenodo.org/records/10230879?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY4ZTE5ZGUxLTQ3ZDEtNDIzZS05MTBhLWNmOGQ4NDc4Mzc4MCIsImRhdGEiOnt9LCJyYW5kb20iOiI0MGRlM2VhOTJiNjZiODk2ODQ0N2ZiOTJmMTRlN2Y5NCJ9.pMax9Vk9YV8CRUl-Ga2VxQXUVuXOkzcaW5NECrsm9doN1e5mizR3VVrXkAcDGLH5FjR642wcd_EqzUFSo28rnA)
+* [GENE-PHENOTYPE](https://zenodo.org/records/10230879?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY4ZTE5ZGUxLTQ3ZDEtNDIzZS05MTBhLWNmOGQ4NDc4Mzc4MCIsImRhdGEiOnt9LCJyYW5kb20iOiI0MGRlM2VhOTJiNjZiODk2ODQ0N2ZiOTJmMTRlN2Y5NCJ9.pMax9Vk9YV8CRUl-Ga2VxQXUVuXOkzcaW5NECrsm9doN1e5mizR3VVrXkAcDGLH5FjR642wcd_EqzUFSo28rnA)
 
 The training details are described in our academic paper.
 
